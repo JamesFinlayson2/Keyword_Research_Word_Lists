@@ -1,0 +1,32 @@
+amazon
+brahmaputra
+colorado
+columbia
+congo
+danube
+euphrates
+ganges
+hudson
+indus
+loire
+mackenzie
+mekong
+mississippi
+missouri
+murray
+niger
+nile
+ohio
+orinoco
+parana
+rhine
+rhone
+rio grande
+seine
+st lawrence
+thames
+tigris
+volga
+yangtze
+yellow river
+yukon 

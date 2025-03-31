@@ -1,0 +1,230 @@
+401k
+accredited investor
+acquisition
+active investing
+alpha
+alternative investment
+amortization
+angel investor
+annualized return
+annuity
+arbitrage
+asset
+asset allocation
+asset class
+asset management
+balance sheet
+bankruptcy
+bear market
+beta
+blue chip
+bond
+bond fund
+bond market
+bond rating
+brokerage
+brokerage account
+bull market
+buyout
+call option
+capital
+capital appreciation
+capital gain
+capital loss
+capital market
+cash flow
+cds
+certificate of deposit
+closed end fund
+collateral
+commercial paper
+commodity
+common stock
+compound interest
+compounding
+convertible bond
+corporate bond
+cost basis
+coupon
+coupon rate
+credit rating
+credit risk
+currency
+day trading
+debt
+debt security
+debt to equity ratio
+depreciation
+derivative
+discount rate
+diversification
+dividend
+dividend yield
+dollar cost averaging
+dow jones
+dow jones industrial average
+earnings
+earnings per share
+ebitda
+emerging market
+equity
+equity fund
+equity market
+estate planning
+etf
+exchange
+exchange rate
+exchange traded fund
+expense ratio
+federal reserve
+fiduciary
+financial advisor
+financial planner
+financial statement
+fixed income
+forex
+forward contract
+front end load
+fund
+fund manager
+fundamental analysis
+futures
+futures contract
+gdp
+government bond
+growth investing
+growth stock
+hedge
+hedge fund
+high yield bond
+income investing
+index
+index fund
+inflation
+initial public offering
+interest
+interest rate
+investment
+investment advisor
+investment bank
+investment banking
+investment fund
+investment grade
+investment management
+investment portfolio
+investment strategy
+ipo
+ira
+junk bond
+leverage
+liability
+libor
+liquidity
+long position
+long term investment
+margin
+margin call
+market
+market cap
+market capitalization
+market maker
+market order
+market risk
+market timing
+maturity
+merger
+money market
+money market fund
+mortgage
+mortgage backed security
+mutual fund
+nasdaq
+nav
+net asset value
+net present value
+net worth
+nyse
+option
+option contract
+otc
+over the counter
+passive investing
+penny stock
+pension
+pension fund
+portfolio
+portfolio management
+preferred stock
+premium
+present value
+price to earnings ratio
+principal
+private equity
+profit
+prospectus
+put option
+quantitative easing
+rate of return
+real estate
+real estate investment trust
+recession
+reit
+return
+return on equity
+return on investment
+risk
+risk adjusted return
+risk management
+risk tolerance
+roi
+roth ira
+s&p 500
+savings
+sec
+securities
+securities and exchange commission
+security
+share
+shareholder
+short position
+short selling
+small cap
+speculation
+speculative investment
+standard deviation
+stock
+stock exchange
+stock market
+stock option
+stock split
+stockbroker
+stop loss
+strike price
+swap
+tax deferred
+tax exempt
+tax free
+technical analysis
+ticker
+ticker symbol
+time horizon
+total return
+trading
+trading volume
+treasury
+treasury bill
+treasury bond
+treasury note
+trust
+underwriter
+underwriting
+valuation
+value investing
+value stock
+venture capital
+volatility
+volume
+wealth management
+yield
+yield curve
+yield to maturity 

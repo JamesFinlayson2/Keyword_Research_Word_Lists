@@ -1,0 +1,34 @@
+medical
+allergies
+blood disorders
+bone and joint conditions
+brain and nervous system disorders
+cancer
+cold and flu
+dental health
+diabetes
+digestive disorders
+ear, nose and throat conditions
+endocrine and metabolic diseases
+eye and vision conditions
+foot health
+heart and cardiovascular diseases
+infectious diseases
+injuries
+lung and respiratory health
+mental health
+reproductive health
+sexual health
+skin and dermatology
+sleep disorders
+substance abuse
+hormonal
+menopause
+thyroid
+first aid
+birth control
+infertility
+pregnancy
+sexual
+vaccine
+surgery

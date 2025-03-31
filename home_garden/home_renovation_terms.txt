@@ -1,0 +1,243 @@
+addition
+adhesive
+alcove
+anchor
+apron
+architrave
+attic
+backsplash
+balcony
+baluster
+banister
+baseboard
+basement
+bathroom remodel
+bay window
+beam
+bifold door
+blind
+blueprint
+bookcase
+brick
+built in
+cabinet
+cabinetry
+caulk
+ceiling
+ceiling fan
+ceiling joist
+cement
+chair rail
+chimney
+cladding
+closet
+concrete
+conservatory
+construction
+contractor
+cornice
+countertop
+crown molding
+curtain
+deck
+decking
+demolition
+diy
+door
+door frame
+door handle
+doorknob
+dormer
+dormer window
+downspout
+drywall
+duct
+eaves
+electrical
+electrical outlet
+electrical wiring
+electrician
+elevation
+en suite
+ensuite
+extension
+exterior
+facade
+fascia
+faucet
+fence
+finish
+finishes
+fireplace
+fitting
+fixture
+flashing
+flooring
+foundation
+frame
+french door
+french window
+furniture
+gable
+garage
+garden
+gate
+gutter
+half bath
+hallway
+hammer
+handle
+handyman
+hardwood
+hardwood floor
+hardware
+hinge
+home improvement
+home renovation
+hvac
+insulation
+interior
+jamb
+joist
+keystone
+kitchen remodel
+laminate
+laminate flooring
+landing
+landscape
+landscaping
+lath
+lath and plaster
+lattice
+level
+light fixture
+lighting
+lintel
+living room
+load bearing wall
+loft
+lumber
+maintenance
+mantel
+mantelpiece
+masonry
+master bathroom
+master bedroom
+millwork
+molding
+mortar
+mullion
+nail
+newel
+newel post
+nook
+outlet
+paint
+painter
+painting
+panel
+paneling
+patio
+pergola
+permit
+pillar
+plank
+plaster
+plastic
+plinth
+plumb
+plumber
+plumbing
+plywood
+pocket door
+porch
+post
+power tool
+primer
+property
+pvc
+rafter
+rail
+railing
+remodel
+remodeling
+renovation
+repair
+restoration
+retrofit
+roof
+roof tile
+roofing
+room
+sander
+sash
+sash window
+sconce
+screw
+sealant
+sealer
+sheathing
+shed
+shelf
+shelving
+shingle
+shutter
+siding
+sill
+sink
+skylight
+skirting
+skirting board
+slate
+sliding door
+soffit
+soil
+solvent
+spackling
+stain
+staircase
+stairs
+stairway
+stairwell
+stud
+stud wall
+subfloor
+sunroom
+suspended ceiling
+tape
+terrace
+threshold
+tile
+tiling
+timber
+tool
+transom
+tread
+trellis
+trim
+trowel
+truss
+underlay
+utility room
+vanity
+varnish
+veneer
+vent
+ventilation
+veranda
+vinyl
+wall
+wallboard
+wallpaper
+wainscot
+wainscoting
+washer
+weatherboard
+weatherstripping
+window
+window frame
+window sill
+windowsill
+wood
+woodwork
+workshop 

@@ -1,0 +1,656 @@
+achalasia
+acid reflux
+acne
+acoustic neuroma
+acromegaly
+acute coronary syndrome
+acute kidney failure
+acute lymphoblastic leukemia
+acute myeloid leukemia
+acute respiratory distress syndrome
+addisons disease
+adenomyosis
+adhd
+adrenal fatigue
+adrenal insufficiency
+agoraphobia
+aids
+alcohol use disorder
+alcoholism
+allergic rhinitis
+allergies
+alopecia
+als
+altitude sickness
+alzheimers
+amenorrhea
+amnesia
+amyotrophic lateral sclerosis
+anaphylaxis
+anemia
+aneurysm
+angina
+ankylosing spondylitis
+anorexia nervosa
+antiphospholipid syndrome
+antisocial personality disorder
+anxiety
+aortic aneurysm
+aortic dissection
+aortic stenosis
+appendicitis
+arrhythmia
+arteriovenous malformation
+arthritis
+asbestosis
+ascites
+aspergers syndrome
+asthma
+astigmatism
+ataxia
+atelectasis
+atherosclerosis
+athletes foot
+atrial fibrillation
+atrial flutter
+attention deficit hyperactivity disorder
+autism
+autoimmune disease
+autoimmune hepatitis
+avascular necrosis
+avian flu
+back pain
+bacterial meningitis
+bacterial pneumonia
+bacterial vaginosis
+barretts esophagus
+basal cell carcinoma
+bells palsy
+benign paroxysmal positional vertigo
+benign prostatic hyperplasia
+bipolar disorder
+bladder cancer
+bladder infection
+blepharitis
+bone cancer
+bone spur
+borderline personality disorder
+botulism
+brain abscess
+brain aneurysm
+brain cancer
+brain tumor
+breast cancer
+bronchiectasis
+bronchiolitis
+bronchitis
+brucellosis
+bruxism
+bulimia nervosa
+bunion
+burkitts lymphoma
+bursitis
+c diff infection
+cachexia
+campylobacter infection
+cancer
+candidiasis
+carbon monoxide poisoning
+carcinoid syndrome
+cardiomyopathy
+carpal tunnel syndrome
+cataracts
+celiac disease
+cellulitis
+cerebral palsy
+cervical cancer
+cervical spondylosis
+chagas disease
+charcot marie tooth disease
+chickenpox
+chikungunya
+chlamydia
+cholangitis
+cholecystitis
+cholera
+cholestasis
+chronic fatigue syndrome
+chronic kidney disease
+chronic lymphocytic leukemia
+chronic myeloid leukemia
+chronic obstructive pulmonary disease
+chronic pain
+chronic pancreatitis
+cirrhosis
+clostridium difficile infection
+cluster headache
+coarctation of the aorta
+coccidioidomycosis
+colitis
+colon cancer
+colorectal cancer
+common cold
+concussion
+congenital heart defect
+congestive heart failure
+conjunctivitis
+constipation
+copd
+corneal abrasion
+coronary artery disease
+coronavirus
+costochondritis
+creutzfeldt jakob disease
+crohns disease
+croup
+cryptosporidiosis
+cushing syndrome
+cystic fibrosis
+cystitis
+dandruff
+deep vein thrombosis
+dehydration
+dementia
+dengue fever
+depression
+dermatitis
+dermatomyositis
+diabetes
+diabetic ketoacidosis
+diabetic neuropathy
+diabetic retinopathy
+diaper rash
+diarrhea
+diphtheria
+diverticulitis
+diverticulosis
+dizziness
+down syndrome
+dry eye syndrome
+dry mouth
+duodenal ulcer
+dupuytrens contracture
+dysentery
+dysmenorrhea
+dyspepsia
+dysphagia
+dysthymia
+dystonia
+e coli infection
+ear infection
+ebola
+ectopic pregnancy
+eczema
+edema
+ehlers danlos syndrome
+emphysema
+encephalitis
+endocarditis
+endometrial cancer
+endometriosis
+enterovirus
+epilepsy
+epstein barr virus
+erectile dysfunction
+erythema multiforme
+erythema nodosum
+esophageal cancer
+esophageal varices
+esophagitis
+essential tremor
+ewing sarcoma
+exophthalmos
+factor v leiden
+familial hypercholesterolemia
+fatty liver disease
+febrile seizure
+fibrocystic breast disease
+fibromyalgia
+fifth disease
+flat feet
+flu
+folate deficiency
+folliculitis
+food allergy
+food poisoning
+frozen shoulder
+fungal infection
+galactosemia
+gallbladder cancer
+gallstones
+ganglion cyst
+gastric cancer
+gastritis
+gastroenteritis
+gastroesophageal reflux disease
+gastroparesis
+generalized anxiety disorder
+genital herpes
+genital warts
+gerd
+gestational diabetes
+giant cell arteritis
+giardiasis
+gilbert syndrome
+gingivitis
+glaucoma
+glomerulonephritis
+gonorrhea
+gout
+graves disease
+guillain barre syndrome
+gum disease
+gynecomastia
+h pylori infection
+haemophilus influenzae
+hairy cell leukemia
+hand foot and mouth disease
+hashimotos thyroiditis
+hay fever
+headache
+hearing loss
+heart attack
+heart disease
+heart failure
+heart murmur
+heartburn
+heat exhaustion
+heat stroke
+helicobacter pylori infection
+hemangioma
+hemochromatosis
+hemolytic anemia
+hemolytic uremic syndrome
+hemophilia
+hemorrhoids
+henoch schonlein purpura
+hepatitis
+hepatitis a
+hepatitis b
+hepatitis c
+hepatitis d
+hepatitis e
+hepatocellular carcinoma
+hereditary spherocytosis
+hernia
+herniated disk
+herpes
+herpes simplex
+herpes zoster
+hiatal hernia
+hidradenitis suppurativa
+high blood pressure
+high cholesterol
+hirschsprungs disease
+hirsutism
+histoplasmosis
+hiv
+hives
+hodgkins lymphoma
+hordeolum
+horners syndrome
+human papillomavirus
+huntingtons disease
+hydrocele
+hydrocephalus
+hyperaldosteronism
+hypercalcemia
+hypercholesterolemia
+hyperemesis gravidarum
+hyperglycemia
+hyperhidrosis
+hyperkalemia
+hypernatremia
+hyperparathyroidism
+hyperprolactinemia
+hypertension
+hyperthyroidism
+hypertrophic cardiomyopathy
+hyperventilation
+hypocalcemia
+hypochondriasis
+hypoglycemia
+hypogonadism
+hypokalemia
+hyponatremia
+hypoparathyroidism
+hypotension
+hypothermia
+hypothyroidism
+idiopathic thrombocytopenic purpura
+impetigo
+indigestion
+infectious mononucleosis
+infertility
+inflammatory bowel disease
+influenza
+insomnia
+interstitial cystitis
+interstitial lung disease
+intestinal obstruction
+intracranial hematoma
+intussusception
+iron deficiency anemia
+irritable bowel syndrome
+ischemic heart disease
+jaundice
+kawasaki disease
+keratitis
+keratoconus
+kidney cancer
+kidney disease
+kidney infection
+kidney stones
+klinefelter syndrome
+labyrinthitis
+lactose intolerance
+laryngeal cancer
+laryngitis
+lead poisoning
+legionnaires disease
+leprosy
+leukemia
+lichen planus
+listeria infection
+liver cancer
+liver disease
+low blood pressure
+lung cancer
+lupus
+lyme disease
+lymphedema
+lymphoma
+macular degeneration
+malaria
+male pattern baldness
+mallory weiss tear
+malnutrition
+marfan syndrome
+mastitis
+mastocytosis
+measles
+melanoma
+melasma
+melioidosis
+ménières disease
+meningitis
+menopause
+menorrhagia
+mesothelioma
+metabolic syndrome
+metastatic cancer
+microcephaly
+migraine
+mitral valve prolapse
+mitral valve regurgitation
+molluscum contagiosum
+mononucleosis
+morton neuroma
+motion sickness
+motor neuron disease
+mouth ulcer
+mrsa infection
+multiple myeloma
+multiple sclerosis
+mumps
+muscular dystrophy
+myasthenia gravis
+mycoplasma pneumonia
+myelodysplastic syndrome
+myelofibrosis
+myocardial infarction
+myocarditis
+myopia
+narcolepsy
+nasal polyps
+necrotizing fasciitis
+nephrotic syndrome
+neuroblastoma
+neurofibromatosis
+neuropathy
+neutropenia
+norovirus
+obesity
+obsessive compulsive disorder
+obstructive sleep apnea
+ocular hypertension
+opioid use disorder
+optic neuritis
+oral cancer
+oral thrush
+osteoarthritis
+osteogenesis imperfecta
+osteomyelitis
+osteopenia
+osteoporosis
+otitis externa
+otitis media
+otosclerosis
+ovarian cancer
+ovarian cyst
+paget disease
+pancreatic cancer
+pancreatitis
+panic attack
+panic disorder
+papilloma
+paraphimosis
+parkinsons disease
+parvovirus infection
+patent ductus arteriosus
+pcos
+pelvic inflammatory disease
+pemphigus
+peptic ulcer
+pericarditis
+periodontal disease
+peripheral artery disease
+peripheral neuropathy
+peritonitis
+pernicious anemia
+pertussis
+pharyngitis
+phenylketonuria
+pheochromocytoma
+phlebitis
+phobia
+pica
+pilonidal cyst
+pinworms
+pityriasis rosea
+placenta previa
+placental abruption
+plague
+plantar fasciitis
+pleurisy
+pneumococcal pneumonia
+pneumonia
+pneumothorax
+polio
+polycystic kidney disease
+polycystic ovary syndrome
+polycythemia vera
+polymyalgia rheumatica
+polymyositis
+polyps
+porphyria
+post traumatic stress disorder
+postpartum depression
+prediabetes
+preeclampsia
+pregnancy
+premature ejaculation
+premenstrual dysphoric disorder
+premenstrual syndrome
+presbyopia
+pressure ulcer
+priapism
+primary biliary cholangitis
+primary sclerosing cholangitis
+proctitis
+prostate cancer
+prostatitis
+psoriasis
+psoriatic arthritis
+ptsd
+pubic lice
+pulmonary edema
+pulmonary embolism
+pulmonary fibrosis
+pulmonary hypertension
+pyelonephritis
+pyloric stenosis
+q fever
+rabies
+radiation sickness
+raynauds disease
+reactive arthritis
+rectal cancer
+rectal prolapse
+rectocele
+renal cell carcinoma
+renal failure
+respiratory syncytial virus
+restless legs syndrome
+retinal detachment
+retinoblastoma
+reye syndrome
+rhabdomyolysis
+rheumatic fever
+rheumatoid arthritis
+rhinitis
+rickets
+ringworm
+rocky mountain spotted fever
+rosacea
+rotator cuff injury
+rotavirus
+rubella
+salmonella infection
+sarcoidosis
+sarcoma
+scabies
+scarlet fever
+schistosomiasis
+schizoaffective disorder
+schizophrenia
+sciatica
+scleroderma
+scoliosis
+seasonal affective disorder
+seborrheic dermatitis
+seizure
+sepsis
+septic arthritis
+serum sickness
+sexually transmitted disease
+shigella infection
+shingles
+sickle cell anemia
+silicosis
+sinusitis
+sjogrens syndrome
+skin cancer
+sleep apnea
+smallpox
+social anxiety disorder
+spastic colon
+spina bifida
+spinal cord injury
+spinal muscular atrophy
+spinal stenosis
+spondylolisthesis
+spondylosis
+squamous cell carcinoma
+staphylococcal infection
+stevens johnson syndrome
+stomach cancer
+stomach flu
+stomach ulcer
+strabismus
+strep throat
+streptococcal infection
+stress
+stress incontinence
+stroke
+subarachnoid hemorrhage
+subdural hematoma
+sudden infant death syndrome
+suicide
+sunburn
+syphilis
+systemic lupus erythematosus
+tabes dorsalis
+tachycardia
+tapeworm infection
+tardive dyskinesia
+temporal arteritis
+temporomandibular joint disorder
+tendinitis
+tennis elbow
+testicular cancer
+testicular torsion
+tetanus
+thalassemia
+thoracic outlet syndrome
+thrombocytopenia
+thrombophlebitis
+thrush
+thyroid cancer
+thyroiditis
+tinea versicolor
+tinnitus
+tmj disorder
+tonsillitis
+torsades de pointes
+tourette syndrome
+toxic shock syndrome
+toxoplasmosis
+trachoma
+transient ischemic attack
+trigeminal neuralgia
+trigger finger
+tuberculosis
+tularemia
+turner syndrome
+typhoid fever
+typhus
+ulcerative colitis
+urethritis
+urinary incontinence
+urinary tract infection
+uterine cancer
+uterine fibroids
+uterine prolapse
+uveitis
+vaginal atrophy
+vaginal cancer
+vaginismus
+vaginitis
+varicella
+varicose veins
+varicocele
+vasculitis
+venous insufficiency
+ventricular fibrillation
+ventricular tachycardia
+vertigo
+viral gastroenteritis
+viral hepatitis
+viral meningitis
+viral pneumonia
+vitiligo
+volvulus
+von willebrand disease
+vulvodynia
+warts
+west nile virus
+whiplash
+whooping cough
+wilms tumor
+wilson disease
+wolff parkinson white syndrome
+yellow fever
+yersinia infection
+zika virus
+zollinger ellison syndrome 

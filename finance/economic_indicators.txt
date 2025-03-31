@@ -1,0 +1,164 @@
+balance of payments
+balance of trade
+bankruptcy rate
+bond yield
+budget deficit
+business confidence
+business cycle
+business investment
+capacity utilization
+capital account
+capital flow
+capital formation
+central bank rate
+consumer confidence
+consumer confidence index
+consumer credit
+consumer debt
+consumer price index
+consumer spending
+core inflation
+corporate profit
+cost of living
+cpi
+credit growth
+credit rating
+credit spread
+currency exchange rate
+current account
+current account balance
+current account deficit
+debt
+debt ratio
+debt service ratio
+debt to gdp
+debt to gdp ratio
+deflation
+disposable income
+durable goods
+durable goods orders
+earnings growth
+economic growth
+economic indicator
+employment
+employment cost index
+employment rate
+exchange rate
+existing home sales
+export
+factory orders
+federal funds rate
+fiscal deficit
+fiscal policy
+foreign direct investment
+foreign exchange
+foreign exchange rate
+foreign exchange reserve
+foreign investment
+foreign trade
+gdp
+gdp deflator
+gdp growth
+gdp per capita
+gni
+gnp
+government bond
+government bond yield
+government debt
+government spending
+gross domestic product
+gross national income
+gross national product
+home price
+home price index
+home sales
+household debt
+household income
+housing market
+housing price
+housing price index
+housing start
+import
+income
+industrial production
+industrial production index
+inflation
+inflation rate
+interest rate
+inventory
+investment
+ism manufacturing index
+ism non manufacturing index
+job creation
+job growth
+job market
+job opening
+labor cost
+labor force
+labor force participation
+labor force participation rate
+labor market
+labor productivity
+leading economic indicator
+lending rate
+libor
+manufacturing
+manufacturing activity
+manufacturing index
+manufacturing pmi
+market capitalization
+market index
+market sentiment
+monetary policy
+money supply
+mortgage rate
+national debt
+national income
+new home sales
+non farm payroll
+non manufacturing index
+non manufacturing pmi
+output
+output gap
+personal consumption
+personal income
+pmi
+policy rate
+ppi
+price index
+price level
+producer price index
+productivity
+purchasing managers index
+real estate
+real estate market
+real estate price
+real gdp
+recession
+reserve
+retail sales
+savings
+savings rate
+service sector
+stock index
+stock market
+stock market index
+stock price
+supply chain
+tax rate
+tax revenue
+trade
+trade balance
+trade deficit
+trade surplus
+treasury yield
+treasury yield curve
+unemployment
+unemployment rate
+wage
+wage growth
+wage inflation
+wholesale price
+wholesale price index
+yield
+yield curve 

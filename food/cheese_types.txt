@@ -1,0 +1,37 @@
+asadero
+asiago
+blue
+blue cheese
+brick
+brie
+burrata
+butterkase
+camembert
+cheddar
+colby
+cottage cheese
+cotija
+cream cheese
+edam
+emmental
+feta
+fontina
+gouda
+gorgonzola
+gruyere
+havarti
+kasseri
+limburger
+manchego
+mascarpone
+monterey jack
+mozzarella
+muenster
+parmesan
+pecorino
+pepato
+provolone
+ricotta
+romano
+roquefort
+swiss 

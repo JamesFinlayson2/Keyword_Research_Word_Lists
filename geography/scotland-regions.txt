@@ -1,0 +1,13 @@
+highlands
+lowlands
+central belt
+cowal
+dumfries and galloway
+fife
+grampian
+lothian
+orkney
+scottish borders
+southern uplands
+strathclyde
+tayside

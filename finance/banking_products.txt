@@ -1,0 +1,117 @@
+atm
+atm card
+auto loan
+automated teller machine
+bank account
+bank card
+bank draft
+bank guarantee
+bank statement
+banking app
+basic account
+bill pay
+bill payment
+bridge loan
+business account
+business banking
+business checking
+business credit card
+business loan
+cash advance
+cash back
+cash management
+cashiers check
+cd
+certificate of deposit
+checking
+checking account
+commercial loan
+commercial mortgage
+credit
+credit card
+credit facility
+credit line
+credit union
+current account
+debit
+debit card
+deposit
+deposit account
+direct deposit
+education loan
+emergency loan
+equity line of credit
+equity loan
+escrow
+escrow account
+fixed deposit
+fixed rate loan
+fixed rate mortgage
+flexible savings account
+foreign currency
+foreign exchange
+gold loan
+heloc
+high interest savings
+high yield savings
+home equity
+home equity line of credit
+home equity loan
+home loan
+installment loan
+interest bearing account
+interest checking
+international transfer
+investment account
+ira
+joint account
+jumbo cd
+jumbo loan
+letter of credit
+line of credit
+loan
+loan consolidation
+mobile banking
+money market
+money market account
+money order
+money transfer
+mortgage
+mortgage loan
+mutual fund
+online banking
+overdraft
+overdraft protection
+payment
+payment card
+payment protection
+payroll
+payroll account
+personal banking
+personal checking
+personal loan
+prepaid card
+private banking
+refinance
+remittance
+retirement account
+revolving credit
+safe deposit box
+safety deposit box
+savings
+savings account
+secured credit card
+secured loan
+secured personal loan
+statement
+student loan
+term deposit
+term loan
+transaction account
+travel card
+trust account
+unsecured loan
+unsecured personal loan
+variable rate loan
+variable rate mortgage
+wire transfer 

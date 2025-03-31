@@ -1,0 +1,40 @@
+bake
+barbecue
+blanch
+blend
+boil
+braise
+broil
+caramelize
+char
+chop
+cure
+deep fry
+deglaze
+dice
+ferment
+flambe
+freeze
+fry
+grate
+grill
+julienne
+knead
+marinate
+mince
+pan fry
+pickle
+poach
+pressure cook
+puree
+roast
+saute
+simmer
+slice
+smoke
+sous vide
+steam
+stew
+stir fry
+toast
+whip 

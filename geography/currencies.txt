@@ -1,0 +1,143 @@
+afghani
+algerian dinar
+angolan kwanza
+argentine peso
+armenian dram
+australian dollar
+azerbaijani manat
+bahamian dollar
+bahraini dinar
+bangladeshi taka
+belarusian ruble
+bermudian dollar
+bolivian boliviano
+brazilian real
+bulgarian lev
+burmese kyat
+cambodian riel
+canadian dollar
+cayman islands dollar
+chilean peso
+chinese yuan
+colombian peso
+costa rican colon
+croatian kuna
+cuban peso
+czech koruna
+danish krone
+djiboutian franc
+dominican peso
+east caribbean dollar
+egyptian pound
+el salvador colon
+eritrean nakfa
+estonian kroon
+ethiopian birr
+euro
+fijian dollar
+gambian dalasi
+georgian lari
+ghanaian cedi
+gibraltar pound
+guatemalan quetzal
+guinean franc
+guyanese dollar
+haitian gourde
+honduran lempira
+hong kong dollar
+hungarian forint
+icelandic króna
+indian rupee
+indonesian rupiah
+iranian rial
+iraqi dinar
+israeli new shekel
+jamaican dollar
+japanese yen
+jordanian dinar
+kazakhstani tenge
+kenyan shilling
+kuwaiti dinar
+kyrgyzstani som
+laotian kip
+latvian lats
+lebanese pound
+lesotho loti
+liberian dollar
+libyan dinar
+lithuanian litas
+macanese pataca
+macedonian denar
+malagasy ariary
+malawian kwacha
+malaysian ringgit
+maldivian rufiyaa
+mauritanian ouguiya
+mauritian rupee
+mexican peso
+moldovan leu
+mongolian tögrög
+moroccan dirham
+mozambican metical
+myanmar kyat
+namibian dollar
+nepalese rupee
+netherlands antillean guilder
+new zealand dollar
+nicaraguan córdoba
+nigerian naira
+north korean won
+norwegian krone
+omani rial
+pakistani rupee
+panamanian balboa
+papua new guinean kina
+paraguayan guaraní
+peruvian sol
+philippine peso
+polish złoty
+qatari riyal
+romanian leu
+russian ruble
+rwandan franc
+saint helena pound
+samoan tala
+são tomé and príncipe dobra
+saudi riyal
+serbian dinar
+seychellois rupee
+sierra leonean leone
+singapore dollar
+slovak koruna
+solomon islands dollar
+somali shilling
+south african rand
+south korean won
+south sudanese pound
+sri lankan rupee
+sudanese pound
+surinamese dollar
+swazi lilangeni
+swedish krona
+swiss franc
+syrian pound
+taiwanese dollar
+tajikistani somoni
+tanzanian shilling
+thai baht
+tongan paʻanga
+trinidad and tobago dollar
+tunisian dinar
+turkish lira
+turkmenistani manat
+ugandan shilling
+ukrainian hryvnia
+united arab emirates dirham
+uruguayan peso
+uzbekistani som
+vanuatu vatu
+venezuelan bolívar
+vietnamese đồng
+yemeni rial
+zambian kwacha
+zimbabwean dollar 

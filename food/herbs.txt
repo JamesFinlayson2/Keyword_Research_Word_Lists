@@ -1,0 +1,23 @@
+basil
+bay leaf
+chervil
+chives
+cilantro
+dill
+epazote
+fennel
+fenugreek
+lavender
+lemon balm
+lemongrass
+lovage
+marjoram
+mint
+oregano
+parsley
+rosemary
+sage
+savory
+sorrel
+tarragon
+thyme 

@@ -1,0 +1,130 @@
+accounting firm
+asset management
+asset management company
+asset manager
+bank
+bank holding company
+bank of america
+banking
+barclays
+brokerage
+brokerage firm
+brokerage house
+building society
+capital market
+central bank
+chase
+citibank
+citigroup
+clearing house
+commercial bank
+community bank
+consumer finance
+cooperative bank
+credit card company
+credit card issuer
+credit institution
+credit union
+custodian
+custodian bank
+depository
+depository institution
+deutsche bank
+development bank
+discount broker
+discount brokerage
+european central bank
+exchange
+export credit agency
+federal reserve
+federal reserve bank
+finance company
+financial advisor
+financial company
+financial consultant
+financial corporation
+financial firm
+financial group
+financial institution
+financial intermediary
+financial planner
+financial services
+financial services company
+financial services firm
+fintech
+fintech company
+foreign exchange
+full service broker
+full service brokerage
+fund
+fund administrator
+fund company
+fund manager
+goldman sachs
+hedge fund
+hsbc
+insurance
+insurance broker
+insurance company
+insurance firm
+insurer
+international monetary fund
+investment advisor
+investment bank
+investment banking
+investment company
+investment firm
+investment fund
+investment management
+investment manager
+jp morgan
+jp morgan chase
+lending institution
+lloyds
+merchant bank
+microfinance
+microfinance institution
+money manager
+money market fund
+morgan stanley
+mortgage bank
+mortgage broker
+mortgage company
+mortgage lender
+mutual fund
+mutual fund company
+national bank
+online bank
+online broker
+online brokerage
+payment processor
+pension
+pension fund
+pension plan
+private bank
+private banking
+private equity
+private equity firm
+rating agency
+regional bank
+retail bank
+retail banking
+rothschild
+royal bank of scotland
+santander
+savings and loan
+savings bank
+securities firm
+stock exchange
+stock market
+thrift
+trust
+trust company
+underwriter
+underwriting
+venture capital
+venture capital firm
+venture capitalist
+wealth management
+wells fargo
+world bank 

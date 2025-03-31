@@ -1,0 +1,58 @@
+artichoke
+arugula
+asparagus
+bamboo shoot
+bean sprout
+beet
+bell pepper
+bok choy
+broccoli
+brussels sprout
+cabbage
+carrot
+cassava
+cauliflower
+celery
+chard
+chicory
+chili pepper
+collard greens
+corn
+cucumber
+daikon
+eggplant
+endive
+fennel
+garlic
+ginger
+green bean
+horseradish
+jicama
+kale
+kohlrabi
+leek
+lettuce
+mushroom
+mustard greens
+okra
+olive
+onion
+parsnip
+pea
+potato
+pumpkin
+radicchio
+radish
+rhubarb
+rutabaga
+scallion
+shallot
+spinach
+squash
+sweet potato
+taro
+tomato
+turnip
+watercress
+yam
+zucchini 

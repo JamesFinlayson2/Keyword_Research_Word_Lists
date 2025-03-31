@@ -1,0 +1,32 @@
+glasgow
+edinburgh
+fife
+north lanarkshire
+south lanarkshire
+aberdeenshire
+highland
+aberdeen
+west lothian
+renfrewshire
+falkirk
+perth and kinross
+dumfries and galloway
+dundee
+north ayrshire
+east ayrshire
+angus
+scottish borders
+south ayrshire
+east dunbartonshire
+east lothian
+moray
+east renfrewshire
+stirling
+midlothian
+west dunbartonshire
+argyll and bute
+inverclyde
+clackmannanshire
+na h-eileanan siar (western isles)
+shetland islands
+orkney islands

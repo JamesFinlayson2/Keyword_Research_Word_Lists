@@ -1,0 +1,44 @@
+arbalest
+arquebus
+axe
+ballista
+bardiche
+battle axe
+billhook
+bodkin
+bow
+broadsword
+catapult
+claymore
+crossbow
+dagger
+falchion
+flail
+glaive
+halberd
+hand cannon
+javelin
+lance
+longbow
+longsword
+mace
+mangonel
+maul
+morning star
+pike
+polearm
+poleaxe
+quarterstaff
+rapier
+scimitar
+shortbow
+shortsword
+sling
+spear
+staff
+stiletto
+sword
+trebuchet
+trident
+war hammer
+warhammer 

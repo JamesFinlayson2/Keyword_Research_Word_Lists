@@ -1,0 +1,117 @@
+ab bench
+ab machine
+ab roller
+abdominal bench
+abdominal machine
+adjustable bench
+adjustable dumbbell
+aerobic step
+ankle weight
+balance ball
+balance board
+barbell
+battle rope
+bench
+bench press
+bicycle
+bike
+bosu ball
+boxing bag
+boxing glove
+cable machine
+cardio equipment
+cardio machine
+chin up bar
+climbing rope
+cross trainer
+crossfit equipment
+dip bar
+dip station
+dumbbell
+elliptical
+elliptical machine
+exercise band
+exercise bike
+exercise equipment
+exercise machine
+exercise mat
+fitness ball
+fitness band
+fitness equipment
+fitness machine
+fitness tracker
+foam roller
+free weight
+glute ham developer
+gym ball
+gym bench
+gym equipment
+gym machine
+gym mat
+hand grip
+hand weight
+hanging bar
+home gym
+indoor bike
+indoor cycle
+jump rope
+kettlebell
+lat machine
+leg curl machine
+leg extension machine
+leg press
+leg press machine
+medicine ball
+multi gym
+olympic bar
+olympic barbell
+olympic weight
+pilates equipment
+pilates machine
+pilates reformer
+power cage
+power rack
+pull up bar
+punching bag
+rack
+resistance band
+resistance tube
+rowing machine
+rower
+running machine
+sandbag
+skipping rope
+slam ball
+smith machine
+spin bike
+spinning bike
+squat rack
+stability ball
+stair climber
+stair master
+stationary bike
+step
+stepper
+strength equipment
+strength machine
+suspension trainer
+swiss ball
+treadmill
+trx
+trx suspension
+trx suspension trainer
+weight
+weight bench
+weight machine
+weight plate
+weight rack
+weight stack
+weight training equipment
+weighted vest
+workout bench
+workout equipment
+workout machine
+yoga block
+yoga equipment
+yoga mat
+yoga strap 

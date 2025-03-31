@@ -1,0 +1,47 @@
+allspice
+anise
+asafoetida
+basil
+bay leaf
+black pepper
+cardamom
+cayenne
+celery seed
+chili powder
+cinnamon
+cloves
+coriander
+cumin
+curry powder
+dill
+fennel
+fenugreek
+five spice
+garam masala
+garlic
+garlic powder
+ginger
+juniper berry
+lemongrass
+mace
+marjoram
+mint
+mustard
+nutmeg
+onion powder
+oregano
+paprika
+parsley
+peppercorn
+poppy seed
+rosemary
+saffron
+sage
+salt
+star anise
+sumac
+tarragon
+thyme
+turmeric
+vanilla
+white pepper 

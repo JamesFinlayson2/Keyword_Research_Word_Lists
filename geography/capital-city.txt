@@ -1,0 +1,197 @@
+kabul
+tirana
+algiers
+andorra la vella
+luanda
+st. john's
+buenos aires
+yerevan
+canberra
+vienna
+baku
+nassau
+manama
+dhaka
+bridgetown
+minsk
+brussels
+belmopan
+porto novo
+thimphu
+sucre
+sarajevo
+gaborone
+brasilia
+bandar seri begawan
+sofia
+ouagadougou
+bujumbura
+phnom penh
+yaoundé
+ottawa
+praia
+bangui
+n'djamena
+santiago
+beijing
+bogota
+moroni
+san josé
+zagreb
+havana
+nicosia
+prague
+kinshasa
+copenagen
+djibouti
+roseau
+santo domingo
+dili
+quito
+cairo
+san salvador
+malabo
+asmara
+tallinn
+mbabane
+addis ababa
+suva
+helsinki
+paris
+libreville
+banjul
+tbilisi
+berlin
+accra
+athens
+st. george's
+guatemala city
+conakry
+bissau
+georgetown
+port-au-prince
+tegucigalpa
+budapest
+reykjavík
+new delhi
+jakarta
+tehran
+baghdad
+dublin
+jerusalem
+rome
+yamoussoukro
+kingston
+tokyo
+amman
+astana
+nairobi
+tarawa
+pyongyang
+seoul
+pristina
+kuwait city
+bishkek
+vientiane
+riga
+beirut
+maseru
+monrovia
+tripoli
+vaduz
+vilnius
+luxembourg
+antananarivo
+lilongwe
+kuala lumpur
+malé
+bamako
+valletta
+majuro
+nouakchott
+port louis
+mexico city
+palikir
+chisinau
+monaco
+ulaanbaatar
+podgorica
+rabat
+maputo
+naypyidaw
+windhoek
+yaren
+kathmandu
+amsterdam
+wellington
+managua
+niamey
+abuja
+skopje
+oslo
+muscat
+islamabad
+melekeok
+east jerusalem
+panama city
+port moresby
+asunción
+lima
+manila
+warsaw
+lisbon
+doha
+brazzaville
+bucharest
+moscow
+kigali
+basseterre
+castries
+kingstown
+apia
+san marino
+são tomé
+riyadh
+dakar
+belgrade
+victoria
+freetown
+singapore
+bratislava
+ljubljana
+honiara
+mogadishu
+pretoria
+juba
+madrid
+sri jayawardenapura kotte
+khartoum
+paramaribo
+stockholm
+bern
+damascus
+taipei
+dushanbe
+dodoma
+bangkok
+lomé
+nukualofa
+port of spain
+tunis
+ankara
+ashgabat
+funafuti
+kampala
+kiev
+abu dhabi
+london
+washington d.c.
+montevideo
+tashkent
+port vila
+vatican city
+caracas
+hanoi
+sana'a
+lusaka
+harare

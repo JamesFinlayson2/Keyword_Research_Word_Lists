@@ -1,0 +1,29 @@
+ancona
+bari
+bologna
+brescia
+cagliari
+catania
+florence
+genoa
+la spezia
+livorno
+messina
+milan
+naples
+palermo
+parma
+perugia
+pescara
+pisa
+reggio calabria
+reggio emilia
+rome
+salerno
+sassari
+syracuse
+taranto
+turin
+trieste
+venice
+verona 

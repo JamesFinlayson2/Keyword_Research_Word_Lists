@@ -1,0 +1,86 @@
+abu dhabi
+accra
+addis ababa
+algiers
+amman
+amsterdam
+ankara
+antananarivo
+athens
+baghdad
+baku
+bangkok
+beijing
+beirut
+berlin
+bern
+bogota
+brasilia
+bratislava
+brussels
+bucharest
+budapest
+buenos aires
+cairo
+canberra
+caracas
+copenhagen
+dakar
+damascus
+delhi
+dhaka
+doha
+dublin
+hanoi
+havana
+helsinki
+islamabad
+jakarta
+kabul
+kathmandu
+kiev
+kingston
+kuala lumpur
+lima
+lisbon
+ljubljana
+london
+luxembourg
+madrid
+manila
+mexico city
+minsk
+monaco
+moscow
+nairobi
+new delhi
+oslo
+ottawa
+paris
+prague
+pretoria
+quito
+rabat
+reykjavik
+riga
+riyadh
+rome
+santiago
+seoul
+singapore
+sofia
+stockholm
+taipei
+tallinn
+tashkent
+tbilisi
+tehran
+tokyo
+tripoli
+tunis
+vienna
+vilnius
+warsaw
+washington dc
+wellington
+zagreb 

@@ -1,0 +1,15 @@
+anklet
+bangle
+bracelet
+brooch
+crown
+cufflink
+earring
+jewellery
+necklace
+necklet
+neckpiece
+pendant
+ring
+tiara
+watch

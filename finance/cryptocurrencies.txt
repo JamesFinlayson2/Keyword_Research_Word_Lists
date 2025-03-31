@@ -1,0 +1,103 @@
+aave
+ada
+algorand
+altcoin
+apecoin
+avalanche
+avax
+axie infinity
+bch
+binance coin
+binance smart chain
+bitcoin
+bitcoin cash
+bitcoin sv
+bitshares
+bnb
+bsv
+btc
+cardano
+chainlink
+cosmos
+crypto
+crypto com
+cryptocurrency
+dai
+dash
+decentraland
+dent
+digibyte
+digital currency
+doge
+dogecoin
+dot
+eos
+etc
+eth
+ether
+ethereum
+ethereum classic
+fantom
+filecoin
+ftx token
+gala
+harmony
+hedera
+hive
+icp
+internet computer
+iota
+kava
+klaytn
+kucoin
+kusama
+link
+litecoin
+lrc
+ltc
+luna
+maker
+matic
+monero
+near
+neo
+nexo
+nft
+oasis
+omg
+one
+pancakeswap
+polkadot
+polygon
+qtum
+ripple
+sand
+shiba
+shiba inu
+sol
+solana
+stablecoin
+stellar
+stx
+sushi
+sushiswap
+terra
+tether
+theta
+token
+tron
+trx
+uniswap
+usdc
+usdt
+vechain
+virtual currency
+wax
+xem
+xlm
+xmr
+xrp
+xtz
+zcash
+zec
+zilliqa 

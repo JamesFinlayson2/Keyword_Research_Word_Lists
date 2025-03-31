@@ -1,0 +1,34 @@
+allergy and immunology
+anesthesiology
+cardiology
+dermatology
+emergency medicine
+endocrinology
+family medicine
+gastroenterology
+general surgery
+geriatrics
+gynecology
+hematology
+infectious disease
+internal medicine
+nephrology
+neurology
+neurosurgery
+obstetrics
+oncology
+ophthalmology
+orthopedics
+otolaryngology
+pathology
+pediatrics
+physical medicine
+plastic surgery
+psychiatry
+pulmonology
+radiology
+rheumatology
+sports medicine
+thoracic surgery
+urology
+vascular surgery 
