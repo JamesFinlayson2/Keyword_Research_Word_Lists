@@ -1,0 +1,25 @@
+aol search
+ask
+baidu
+bing
+brave search
+duckduckgo
+ecosia
+exalead
+gigablast
+google
+info.com
+lycos
+metager
+mojeek
+naver
+neeva
+qwant
+search.com
+searchencrypt
+sogou
+startpage
+swisscows
+yahoo
+yandex
+yippy 

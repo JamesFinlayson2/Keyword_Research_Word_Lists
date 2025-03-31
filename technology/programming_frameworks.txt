@@ -1,0 +1,94 @@
+angular
+angular js
+angularjs
+ansible
+apache cordova
+asp net
+asp net core
+backbone
+backbone js
+backbonejs
+bootstrap
+cakephp
+codeigniter
+cordova
+css framework
+cypress
+django
+dotnet
+dotnet core
+electron
+ember
+ember js
+emberjs
+express
+express js
+expressjs
+fastapi
+flask
+flutter
+gatsby
+grails
+hibernate
+ionic
+jasmine
+jest
+jquery
+jquery mobile
+jquery ui
+keras
+laravel
+meteor
+mocha
+nest
+nest js
+nestjs
+next
+next js
+nextjs
+node
+node js
+nodejs
+nuxt
+nuxt js
+nuxtjs
+phoenix
+play framework
+polymer
+protractor
+puppet
+pytorch
+quasar
+rails
+react
+react js
+react native
+reactjs
+redux
+ruby on rails
+rust
+saltstack
+selenium
+semantic ui
+sinatra
+spring
+spring boot
+spring framework
+svelte
+symfony
+tailwind
+tailwind css
+tensorflow
+typescript
+ui framework
+ui kit
+vaadin
+vue
+vue js
+vuejs
+web framework
+wordpress
+xamarin
+yii
+zend
+zend framework 

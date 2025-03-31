@@ -1,0 +1,43 @@
+ambulance
+atv
+bicycle
+bus
+cab
+campervan
+car
+caravan
+coach
+convertible
+coupe
+delivery van
+dump truck
+electric car
+electric scooter
+excavator
+fire engine
+forklift
+garbage truck
+golf cart
+hatchback
+hybrid car
+jeep
+limousine
+minibus
+minivan
+motorcycle
+pickup truck
+police car
+quad bike
+recreational vehicle
+roadster
+scooter
+sedan
+semi truck
+sports car
+station wagon
+suv
+taxi
+tractor
+trailer
+truck
+van 

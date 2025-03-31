@@ -1,0 +1,37 @@
+alpine linux
+arch linux
+artix linux
+bodhi linux
+calculate linux
+centos
+clear linux
+debian
+deepin
+elementary os
+endeavouros
+fedora
+gentoo
+kali linux
+knoppix
+kubuntu
+linux mint
+mageia
+manjaro
+mx linux
+nixos
+opensuse
+oracle linux
+parrot os
+pop os
+puppy linux
+raspberry pi os
+red hat enterprise linux
+rocky linux
+slackware
+solus
+tails
+ubuntu
+ubuntu mate
+void linux
+xubuntu
+zorin os 

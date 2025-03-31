@@ -1,0 +1,61 @@
+arsenal
+aston villa
+barnsley
+birmingham city
+blackburn rovers
+blackpool
+bolton wanderers
+bournemouth
+bradford city
+brentford
+brighton
+brighton and hove albion
+burnley
+cardiff city
+charlton athletic
+chelsea
+coventry city
+crystal palace
+derby county
+everton
+fulham
+huddersfield town
+hull city
+ipswich town
+leeds
+leeds united
+leicester
+leicester city
+liverpool
+luton town
+manchester city
+manchester united
+middlesbrough
+newcastle
+newcastle united
+norwich
+norwich city
+nottingham forest
+oldham athletic
+portsmouth
+queens park rangers
+qpr
+reading
+sheffield united
+sheffield wednesday
+southampton
+stoke city
+sunderland
+swansea city
+swindon town
+tottenham
+tottenham hotspur
+watford
+west bromwich albion
+west brom
+west ham
+west ham united
+wigan athletic
+wimbledon
+wolverhampton wanderers
+wolves 

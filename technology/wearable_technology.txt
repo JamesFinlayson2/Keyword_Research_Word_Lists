@@ -1,0 +1,93 @@
+activity bracelet
+activity monitor
+activity tracker
+apple watch
+ar glasses
+augmented reality glasses
+biometric sensor
+biometric tracker
+bluetooth earbuds
+bluetooth earphones
+bluetooth headphones
+body camera
+body worn camera
+digital watch
+earbuds
+earphones
+fitbit
+fitbit alta
+fitbit charge
+fitbit flex
+fitbit inspire
+fitbit sense
+fitbit versa
+fitness band
+fitness bracelet
+fitness monitor
+fitness tracker
+garmin
+garmin fenix
+garmin forerunner
+garmin instinct
+garmin venu
+garmin vivoactive
+garmin vivosmart
+google glass
+gps tracker
+gps watch
+headphones
+health band
+health bracelet
+health monitor
+health tracker
+heart rate monitor
+huawei band
+huawei watch
+medical alert bracelet
+medical alert device
+medical alert wearable
+medical monitor
+medical tracker
+mi band
+microsoft band
+moto 360
+oculus
+oculus quest
+oculus rift
+pedometer
+polar
+polar ignite
+polar vantage
+samsung galaxy fit
+samsung galaxy watch
+samsung gear
+smart band
+smart bracelet
+smart clothing
+smart earbuds
+smart earphones
+smart glasses
+smart glove
+smart headphones
+smart jewelry
+smart ring
+smart shirt
+smart shoe
+smart socks
+smart watch
+smartband
+smartwatch
+step counter
+step tracker
+virtual reality headset
+vr glasses
+vr goggles
+vr headset
+wearable camera
+wearable computer
+wearable device
+wearable health monitor
+wearable health tracker
+wearable tech
+wearable technology
+xiaomi mi band 

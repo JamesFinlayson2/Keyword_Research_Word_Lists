@@ -1,0 +1,210 @@
+abstract of title
+acre
+adjustable rate mortgage
+agent
+amortization
+appraisal
+appreciation
+arm
+as is
+assessed value
+assessment
+assets
+assignment
+assumable mortgage
+balloon mortgage
+balloon payment
+bankruptcy
+bedroom
+bidding war
+binder
+broker
+brokerage
+building code
+buy down
+buyer
+buyer agent
+buyers market
+cap rate
+capital gain
+capitalization rate
+cash flow
+cash offer
+certificate of occupancy
+closing
+closing costs
+closing date
+closing disclosure
+co op
+commercial property
+commission
+comparable
+comparative market analysis
+condominium
+contingency
+contract
+conventional loan
+cooperative
+counteroffer
+covenant
+credit report
+credit score
+curb appeal
+debt to income ratio
+deed
+deed of trust
+default
+depreciation
+disclosure
+discount points
+down payment
+dual agency
+due diligence
+duplex
+earnest money
+easement
+encroachment
+encumbrance
+equity
+escrow
+estate
+eviction
+exclusive agency listing
+exclusive right to sell
+fair housing act
+fair market value
+fannie mae
+fha loan
+fico score
+fixer upper
+fixed rate mortgage
+fixture
+flipping
+foreclosure
+freddie mac
+fsbo
+gentrification
+good faith estimate
+home equity
+home equity loan
+home inspection
+home warranty
+homeowners association
+homeowners insurance
+hoa
+housing market
+hud
+income property
+inspection
+interest
+interest rate
+investment property
+joint tenancy
+jumbo loan
+landlord
+lease
+lease option
+lease purchase
+lender
+lien
+listing
+listing agent
+listing agreement
+loan
+loan application
+loan officer
+loan origination
+loan to value ratio
+lot
+market value
+mls
+mortgage
+mortgage broker
+mortgage insurance
+mortgage lender
+mortgage loan
+multiple listing service
+negative amortization
+neighborhood
+net worth
+notary
+offer
+open house
+option
+owner financing
+ownership
+parcel
+piti
+plat
+pmi
+pre approval
+pre qualification
+prepayment penalty
+price per square foot
+principal
+private mortgage insurance
+probate
+property
+property management
+property manager
+property tax
+purchase agreement
+purchase price
+qualified mortgage
+real estate
+real estate agent
+real estate broker
+real estate investment
+real estate owned
+real property
+realtor
+refinance
+reit
+relocation
+renovation
+rent
+rent to own
+rental
+rental property
+renter
+reo
+resale
+residential
+restrictive covenant
+reverse mortgage
+right of first refusal
+sale
+sale price
+second mortgage
+seller
+seller financing
+sellers market
+selling agent
+settlement
+short sale
+single family home
+square footage
+staging
+subdivision
+subprime
+tax assessment
+tax lien
+tenancy
+tenant
+time on market
+title
+title company
+title insurance
+title search
+townhouse
+transaction
+transfer tax
+trust
+underwriting
+usda loan
+va loan
+valuation
+variance
+walk through
+warranty deed
+zoning 

@@ -1,0 +1,13 @@
+theatre
+nightclub
+casino
+theme park
+amusement park
+water park
+zoo
+aquarium
+museum
+gallery
+cinema
+planetarium
+observatory

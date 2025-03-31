@@ -1,0 +1,48 @@
+archery
+artistic gymnastics
+artistic swimming
+athletics
+badminton
+baseball
+basketball
+beach volleyball
+boxing
+breaking
+canoe slalom
+canoe sprint
+climbing
+cycling bmx
+cycling mountain bike
+cycling road
+cycling track
+diving
+equestrian
+fencing
+football
+golf
+handball
+hockey
+judo
+karate
+marathon swimming
+modern pentathlon
+rhythmic gymnastics
+rowing
+rugby sevens
+sailing
+shooting
+skateboarding
+softball
+sport climbing
+surfing
+swimming
+table tennis
+taekwondo
+tennis
+track and field
+trampoline
+triathlon
+volleyball
+water polo
+weightlifting
+wrestling 

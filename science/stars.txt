@@ -1,0 +1,30 @@
+achernar
+aldebaran
+algol
+alpha centauri
+altair
+antares
+arcturus
+barnards star
+betelgeuse
+canopus
+capella
+castor
+deneb
+epsilon eridani
+fomalhaut
+hamal
+kepler 22
+luyten 726 8
+mira
+polaris
+pollux
+procyon
+proxima centauri
+regulus
+rigel
+sirius
+spica
+tau ceti
+vega
+wolf 359 

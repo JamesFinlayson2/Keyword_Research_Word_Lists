@@ -1,0 +1,65 @@
+barcode reader
+barcode scanner
+biometric scanner
+bluetooth keyboard
+bluetooth mouse
+braille keyboard
+braille reader
+camera
+card reader
+controller
+digital pen
+digitizer
+document scanner
+drawing pad
+drawing tablet
+fingerprint reader
+fingerprint scanner
+foot pedal
+game controller
+gamepad
+gaming keyboard
+gaming mouse
+gesture controller
+graphics tablet
+handwriting tablet
+headset
+image scanner
+joystick
+keyboard
+keypad
+light gun
+light pen
+magnetic card reader
+mechanical keyboard
+microphone
+midi controller
+midi keyboard
+mouse
+mouse pad
+numeric keypad
+optical mouse
+pen tablet
+pointing stick
+qr code scanner
+remote control
+rfid reader
+scanner
+smart card reader
+speech recognition device
+stylus
+tablet
+touch pad
+touch screen
+touchpad
+touchscreen
+trackball
+trackpad
+usb keyboard
+usb mouse
+virtual keyboard
+virtual reality controller
+voice recognition device
+webcam
+wireless keyboard
+wireless mouse 

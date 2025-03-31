@@ -1,0 +1,60 @@
+adapter
+battery
+bluetooth
+cable
+camera
+card reader
+case
+cd drive
+central processing unit
+chip
+computer
+cooling fan
+cpu
+desktop
+display
+docking station
+dvd drive
+ethernet
+external drive
+fan
+flash drive
+graphics card
+hard disk
+hard drive
+hardware
+headphones
+heat sink
+keyboard
+laptop
+memory
+microphone
+modem
+monitor
+motherboard
+mouse
+network card
+optical drive
+pc
+power supply
+printer
+processor
+ram
+router
+scanner
+screen
+server
+solid state drive
+sound card
+speaker
+ssd
+storage
+tablet
+touchpad
+touchscreen
+trackpad
+usb drive
+video card
+webcam
+wifi
+wireless 

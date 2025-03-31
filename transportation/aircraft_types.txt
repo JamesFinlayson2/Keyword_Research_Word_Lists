@@ -1,0 +1,41 @@
+airbus
+airliner
+amphibious aircraft
+autogyro
+biplane
+blimp
+bomber
+business jet
+cargo aircraft
+cessna
+chinook
+commercial aircraft
+crop duster
+dirigible
+drone
+fighter jet
+floatplane
+glider
+gyrocopter
+hang glider
+helicopter
+hot air balloon
+hydroplane
+jet
+jumbo jet
+light aircraft
+microlight
+military aircraft
+monoplane
+paraglider
+passenger plane
+private jet
+propeller aircraft
+reconnaissance aircraft
+seaplane
+stealth bomber
+supersonic jet
+tiltrotor
+transport aircraft
+ultralight
+zeppelin 

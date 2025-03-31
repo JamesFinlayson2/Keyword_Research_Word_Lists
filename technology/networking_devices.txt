@@ -1,0 +1,76 @@
+access point
+bridge
+cable modem
+cellular router
+cloud managed switch
+core router
+dsl modem
+edge router
+ethernet hub
+ethernet switch
+fiber optic modem
+firewall
+gateway
+gigabit switch
+hub
+internet gateway
+layer 2 switch
+layer 3 switch
+load balancer
+managed switch
+mesh network system
+mesh router
+modem
+modem router
+modular switch
+multilayer switch
+nas
+network adapter
+network bridge
+network controller
+network extender
+network hub
+network interface card
+network repeater
+network server
+network switch
+network terminal
+nic
+patch panel
+poe switch
+power over ethernet switch
+print server
+range extender
+repeater
+residential gateway
+router
+security gateway
+smart switch
+switch
+unmanaged switch
+virtual private network
+virtual router
+vpn concentrator
+vpn router
+wan accelerator
+wan optimizer
+wifi 6 router
+wifi access point
+wifi adapter
+wifi booster
+wifi bridge
+wifi extender
+wifi mesh system
+wifi range extender
+wifi repeater
+wifi router
+wireless access point
+wireless adapter
+wireless bridge
+wireless controller
+wireless extender
+wireless gateway
+wireless mesh router
+wireless range extender
+wireless repeater
+wireless router 

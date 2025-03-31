@@ -1,0 +1,116 @@
+air purifier
+alexa
+amazon echo
+amazon echo dot
+apple homepod
+apple homepod mini
+automated blinds
+automated curtains
+automated lighting
+automated thermostat
+automatic vacuum
+bluetooth speaker
+connected appliance
+connected doorbell
+connected lock
+connected thermostat
+digital assistant
+doorbell camera
+ecobee
+ecobee thermostat
+electric outlet
+google assistant
+google home
+google home hub
+google home max
+google home mini
+google nest
+google nest audio
+google nest hub
+google nest mini
+hive
+home assistant
+home automation
+home automation hub
+home security camera
+home security system
+homepod
+homepod mini
+indoor camera
+intelligent lighting
+internet of things
+iot device
+iot hub
+iot sensor
+motion detector
+motion sensor
+nest
+nest audio
+nest cam
+nest doorbell
+nest hub
+nest learning thermostat
+nest mini
+nest protect
+nest thermostat
+philips hue
+ring
+ring alarm
+ring camera
+ring doorbell
+security camera
+security sensor
+security system
+siri
+smart alarm
+smart appliance
+smart assistant
+smart bulb
+smart camera
+smart display
+smart doorbell
+smart fan
+smart fridge
+smart garage door
+smart home
+smart home controller
+smart home hub
+smart home security
+smart home system
+smart kettle
+smart light
+smart light bulb
+smart light switch
+smart lock
+smart meter
+smart outlet
+smart plug
+smart refrigerator
+smart security
+smart security camera
+smart security system
+smart sensor
+smart speaker
+smart switch
+smart thermostat
+smart tv
+smart vacuum
+smart washer
+smart water sensor
+sonos
+sonos one
+sonos speaker
+voice assistant
+voice control
+voice controlled device
+wifi camera
+wifi doorbell
+wifi thermostat
+wireless camera
+wireless doorbell
+wireless sensor
+wireless speaker
+zigbee device
+zigbee hub
+zwave device
+zwave hub 

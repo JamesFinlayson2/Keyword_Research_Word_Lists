@@ -1,0 +1,82 @@
+alibaba cloud
+amazon cloud
+amazon cloudfront
+amazon ec2
+amazon elastic compute cloud
+amazon rds
+amazon s3
+amazon simple storage service
+amazon web services
+apache cloudstack
+aws
+azure
+azure active directory
+azure app service
+azure blob storage
+azure cloud services
+azure cosmos db
+azure functions
+azure kubernetes service
+azure sql
+azure storage
+baidu cloud
+cloud backup
+cloud computing
+cloud database
+cloud hosting
+cloud infrastructure
+cloud platform
+cloud server
+cloud service
+cloud storage
+cloudflare
+digital ocean
+digitalocean
+dropbox
+dropbox business
+elastic compute cloud
+firebase
+gcp
+google app engine
+google cloud
+google cloud platform
+google cloud storage
+google compute engine
+google drive
+heroku
+huawei cloud
+iaas
+ibm cloud
+infrastructure as a service
+kubernetes
+linode
+microsoft 365
+microsoft azure
+microsoft cloud
+microsoft onedrive
+mongodb atlas
+onedrive
+openstack
+oracle cloud
+oracle cloud infrastructure
+paas
+platform as a service
+rackspace
+rackspace cloud
+saas
+salesforce
+salesforce cloud
+sap cloud
+sap cloud platform
+scaleway
+simple storage service
+software as a service
+tencent cloud
+virtual private cloud
+virtual private server
+vmware cloud
+vpc
+vps
+vultr
+web hosting
+web services 

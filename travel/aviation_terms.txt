@@ -1,0 +1,213 @@
+aerobridge
+aerodrome
+ailerons
+air corridor
+air marshal
+air miles
+air traffic control
+air traffic controller
+airbus
+aircraft
+aircraft carrier
+aircraft maintenance
+airfare
+airfield
+airline
+airline alliance
+airline hub
+airline lounge
+airline ticket
+airmail
+airplane
+airport
+airport code
+airport lounge
+airport security
+airport shuttle
+airport terminal
+airside
+airspace
+airstrip
+aisle
+aisle seat
+altimeter
+altitude
+approach
+arrival
+arrival gate
+arrival hall
+arrival terminal
+atc
+autopilot
+avgas
+aviate
+aviation
+aviator
+avionics
+baggage
+baggage allowance
+baggage carousel
+baggage claim
+baggage handler
+baggage tag
+base fare
+boarding
+boarding gate
+boarding pass
+boeing
+business class
+cabin
+cabin crew
+captain
+cargo
+carry on
+charter flight
+check in
+check in counter
+cockpit
+codeshare
+commercial aviation
+connecting flight
+connection
+copilot
+crew
+cross check
+customs
+departure
+departure gate
+departure hall
+departure lounge
+departure terminal
+destination
+direct flight
+domestic flight
+economy class
+elevator
+emergency exit
+en route
+engine
+exit row
+faa
+first class
+flight
+flight attendant
+flight crew
+flight deck
+flight delay
+flight number
+flight path
+flight plan
+flight recorder
+flight schedule
+flight simulator
+flight status
+flightpath
+flightsim
+fly
+flying
+frequent flyer
+frequent flyer miles
+frequent flyer program
+fuselage
+gate
+gate agent
+general aviation
+glider
+ground crew
+ground handling
+ground staff
+hangar
+headwind
+helipad
+heliport
+holding pattern
+iata
+icao
+in flight
+in flight entertainment
+in flight meal
+in flight service
+instrument landing system
+international flight
+jet
+jet bridge
+jet engine
+jet fuel
+jet lag
+jetway
+jumbo jet
+landing
+landing gear
+layover
+long haul
+long haul flight
+luggage
+main cabin
+maintenance
+middle seat
+mileage
+miles
+nonstop
+nonstop flight
+one way
+one way ticket
+oneworld
+open jaw
+overhead bin
+overhead compartment
+passenger
+passport control
+pilot
+premium economy
+pressurized cabin
+private jet
+propeller
+pushback
+radar
+regional airline
+regional jet
+reservation
+return flight
+round trip
+round trip ticket
+route
+rudder
+runway
+safety card
+safety demonstration
+scheduled flight
+seat
+seat assignment
+seat belt
+seat pocket
+security
+security checkpoint
+short haul
+short haul flight
+shuttle
+simulator
+skyteam
+star alliance
+steward
+stewardess
+stopover
+tailwind
+takeoff
+tarmac
+taxiing
+terminal
+ticket
+ticket agent
+timetable
+tower
+transponder
+travel agent
+travel class
+tsa
+turbulence
+turnaround
+unaccompanied minor
+upgrade
+window seat
+wing
+winglet 

@@ -1,0 +1,13 @@
+altostratus
+altocumulus
+cirrocumulus
+cirrostratus
+cirrus
+cumulonimbus
+cumulus
+mammatus
+nimbostratus
+noctilucent clouds
+polar mesospheric clouds
+stratocumulus
+stratus 

@@ -1,0 +1,93 @@
+acre
+ampere
+angstrom
+astronomical unit
+atmosphere
+bar
+barrel
+becquerel
+bel
+bit
+byte
+calorie
+candela
+celsius
+centimeter
+coulomb
+cubit
+cubic centimeter
+cubic foot
+cubic inch
+cubic meter
+cubic yard
+cup
+decibel
+degree
+dyne
+electron volt
+erg
+fahrenheit
+farad
+fathom
+fluid ounce
+foot
+furlong
+gallon
+gauss
+gram
+gray
+hectare
+henry
+hertz
+horsepower
+hour
+inch
+joule
+kelvin
+kilogram
+kilometer
+knot
+league
+light year
+liter
+lumen
+lux
+meter
+metric ton
+mile
+millibar
+millimeter
+minute
+mole
+nautical mile
+newton
+ohm
+ounce
+parsec
+pascal
+peck
+pint
+pound
+quart
+radian
+rankine
+second
+siemens
+sievert
+square foot
+square inch
+square kilometer
+square meter
+square mile
+square yard
+steradian
+stone
+tablespoon
+teaspoon
+tesla
+ton
+tonne
+volt
+watt
+weber
+yard 

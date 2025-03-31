@@ -1,0 +1,97 @@
+aio cooler
+air cooler
+all in one cooler
+audio card
+backplate
+bios chip
+bluetooth adapter
+cable management system
+case fan
+chipset
+cmos battery
+cooling fan
+cpu
+cpu cooler
+cpu socket
+data cable
+desktop case
+dram
+drive bay
+dual channel memory
+expansion card
+expansion slot
+fan controller
+fan header
+front panel connector
+front panel header
+gpu
+graphics card
+graphics processing unit
+hard drive
+hard drive bay
+hard drive cage
+heat pipe
+heat sink
+heatsink
+i o panel
+i o shield
+internal hard drive
+internal ssd
+io panel
+io shield
+liquid cooler
+liquid cooling system
+m 2 drive
+m 2 slot
+memory
+memory slot
+microprocessor
+motherboard
+nvme drive
+nvme slot
+optical drive
+pci card
+pci express slot
+pci slot
+pcie card
+pcie slot
+pcmcia card
+power cable
+power connector
+power supply
+power supply unit
+processor
+psu
+psu shroud
+radiator
+raid controller
+ram
+ram slot
+ribbon cable
+riser card
+sata cable
+sata connector
+sata controller
+sata drive
+sata port
+sata power connector
+scsi controller
+scsi drive
+server case
+server motherboard
+server rack
+sli bridge
+solid state drive
+sound card
+ssd
+storage drive
+system fan
+thermal compound
+thermal paste
+tower case
+usb header
+video card
+water block
+water cooling kit
+water pump
+wifi card 

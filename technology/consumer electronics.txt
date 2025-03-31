@@ -1,0 +1,22 @@
+cameras
+camcorders
+home entertainment system
+smartphone
+tablets
+e-readers
+laptop
+gps
+soundbar
+speaker
+tv
+monitor
+projector
+dvd player
+blu-ray player
+game console
+oled
+dac
+lcd
+slr
+hi-fi
+hifi

@@ -1,0 +1,197 @@
+activation function
+adaptive learning
+adversarial learning
+adversarial network
+agent
+ai
+ai alignment
+ai bias
+ai ethics
+ai governance
+ai hallucination
+ai model
+ai regulation
+ai safety
+ai system
+algorithm
+algorithmic bias
+alphacode
+alphafold
+alphago
+alphastar
+anthropic
+artificial general intelligence
+artificial intelligence
+artificial neural network
+assistant
+attention mechanism
+automated reasoning
+autonomous agent
+autonomous system
+autonomous vehicle
+backpropagation
+bard
+bayesian network
+bert
+bias
+big data
+bioinformatics
+biomimicry
+chatbot
+chatgpt
+classification
+claude
+cloud ai
+clustering
+cnn
+cognitive architecture
+cognitive computing
+cognitive science
+collaborative filtering
+common sense reasoning
+computational linguistics
+computer vision
+convolutional neural network
+copilot
+corpus
+dall e
+data augmentation
+data mining
+data science
+dataset
+decision tree
+deep dream
+deep fake
+deep learning
+deepmind
+diffusion model
+dimensionality reduction
+edge ai
+embedding
+emotion ai
+ensemble learning
+ethics
+expert system
+explainable ai
+facial recognition
+feature extraction
+feature selection
+federated learning
+fine tuning
+foundation model
+fuzzy logic
+gan
+generative adversarial network
+generative ai
+generative model
+genetic algorithm
+gpt
+gradient descent
+graph neural network
+hallucination
+heuristic
+human ai interaction
+human computer interaction
+human in the loop
+hyperparameter
+image classification
+image generation
+image recognition
+inference
+information extraction
+information retrieval
+intelligent agent
+knowledge base
+knowledge graph
+knowledge representation
+language model
+large language model
+latent space
+llama
+llm
+lstm
+machine learning
+machine perception
+machine translation
+machine vision
+markov chain
+meta learning
+metadata
+midjourney
+ml
+mlops
+model
+multimodal ai
+multimodal learning
+natural language generation
+natural language processing
+natural language understanding
+neural architecture
+neural network
+neuroevolution
+nlp
+object detection
+ocr
+openai
+optical character recognition
+optimization
+overfitting
+parameter
+pattern recognition
+perceptron
+personalization
+predictive analytics
+predictive modeling
+pretrained model
+prompt
+prompt engineering
+q learning
+quantum ai
+quantum computing
+quantum machine learning
+recommendation system
+recurrent neural network
+regression
+reinforcement learning
+representation learning
+responsible ai
+robotics
+rnn
+rule based system
+search algorithm
+semantic analysis
+semantic network
+semantic search
+sentiment analysis
+sequence to sequence
+siri
+speech recognition
+speech synthesis
+stable diffusion
+statistical learning
+supervised learning
+swarm intelligence
+synthetic data
+tensor
+tensorflow
+text classification
+text generation
+text mining
+text to image
+text to speech
+tokenization
+training
+transformer
+transfer learning
+turing test
+underfitting
+unsupervised learning
+vector
+vector database
+vector space
+virtual assistant
+voice assistant
+voice recognition
+weight
+word embedding
+word vector 

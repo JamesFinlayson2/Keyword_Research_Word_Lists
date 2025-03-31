@@ -1,0 +1,304 @@
+a b testing
+account based marketing
+acquisition
+active user
+addon
+agile
+agile development
+ai
+analytics
+annual contract value
+annual recurring revenue
+api
+app
+application
+application programming interface
+arpu
+artificial intelligence
+authentication
+automation
+average revenue per user
+b2b
+b2c
+backend
+backup
+bandwidth
+beta
+beta testing
+billing
+bootstrapped
+bug
+bug fix
+business intelligence
+business model
+business process automation
+business to business
+business to consumer
+cac
+call to action
+chargeback
+churn
+churn rate
+client
+client server
+cloud
+cloud based
+cloud computing
+cloud hosting
+cloud service
+cloud storage
+cms
+code
+collaboration
+compliance
+content management system
+conversion
+conversion rate
+conversion rate optimization
+cost per acquisition
+crm
+cross platform
+cross sell
+customer
+customer acquisition cost
+customer experience
+customer journey
+customer lifecycle
+customer lifetime value
+customer onboarding
+customer portal
+customer relationship management
+customer retention
+customer satisfaction
+customer service
+customer success
+customization
+dashboard
+data
+data analytics
+data center
+data integration
+data migration
+data privacy
+data processing
+data security
+data storage
+database
+demo
+deployment
+design
+desktop
+developer
+development
+devops
+digital transformation
+documentation
+downtime
+drag and drop
+drip campaign
+e commerce
+email marketing
+encryption
+enterprise
+enterprise resource planning
+enterprise software
+erp
+feature
+feature request
+feedback
+fintech
+firewall
+free trial
+freemium
+frontend
+gdpr
+growth
+growth hacking
+growth rate
+help desk
+hosting
+iaas
+implementation
+in app purchase
+infrastructure
+infrastructure as a service
+integration
+interface
+internet of things
+iot
+iteration
+key performance indicator
+kpi
+landing page
+lead
+lead generation
+license
+lifetime value
+login
+ltv
+machine learning
+maintenance
+marketing
+marketing automation
+marketplace
+metrics
+microservice
+migration
+minimum viable product
+ml
+mobile
+mobile app
+monetization
+monthly recurring revenue
+mrr
+multi tenant
+mvp
+net promoter score
+network
+nps
+on premise
+onboarding
+online
+open source
+operating system
+operations
+optimization
+outage
+paas
+partner
+partnership
+password
+patch
+payment
+payment gateway
+payment processing
+performance
+personalization
+platform
+platform as a service
+plugin
+premium
+pricing
+pricing model
+pricing plan
+pricing strategy
+privacy
+product
+product development
+product feature
+product management
+product manager
+product roadmap
+productivity
+project management
+prototype
+public cloud
+recurring revenue
+release
+remote
+renewal
+reporting
+repository
+retention
+retention rate
+revenue
+roadmap
+roi
+saas
+saas metrics
+sales
+sales cycle
+sales funnel
+sales pipeline
+sales process
+sales qualified lead
+scalability
+scale
+scrum
+sdk
+search
+security
+self service
+server
+service
+service level agreement
+setup
+sign up
+single sign on
+sla
+sms
+software
+software as a service
+software development
+software development kit
+software license
+solution
+sprint
+sql
+sql database
+startup
+storage
+subscription
+subscription business model
+subscription management
+subscription model
+support
+system
+system integration
+team
+technical
+technical support
+technology
+template
+tenant
+terms of service
+third party
+third party integration
+tier
+time to market
+tool
+traffic
+trial
+two factor authentication
+ui
+update
+upgrade
+upsell
+uptime
+url
+usability
+user
+user acquisition
+user authentication
+user base
+user experience
+user feedback
+user flow
+user friendly
+user interface
+user journey
+user management
+user onboarding
+user research
+user testing
+ux
+validation
+value proposition
+vendor
+version
+version control
+virtual
+virtual machine
+virtualization
+web
+web app
+web application
+web based
+web development
+web hosting
+web service
+webapp
+website
+white label
+workflow
+workspace 

@@ -1,0 +1,68 @@
+agoda
+airbnb
+american airlines
+american express travel
+amtrak
+amtrak vacations
+booking
+booking com
+bookingcom
+british airways
+carnival cruise
+cheapoair
+cheaptickets
+costco travel
+delta
+delta air lines
+delta vacations
+easyjet
+emirates
+expedia
+flightcentre
+flighthub
+frontier
+frontier airlines
+getaroom
+google flights
+hilton
+hopper
+hostelworld
+hotels
+hotels com
+hotwire
+jetblue
+kayak
+klm
+lastminute
+lastminute com
+lufthansa
+makemytrip
+marriott
+momondo
+norwegian cruise line
+onetravel
+opodo
+orbitz
+priceline
+princess cruises
+qantas
+royal caribbean
+ryanair
+skyscanner
+southwest
+southwest airlines
+spirit
+spirit airlines
+statravel
+staycation
+travelocity
+travelsupermarket
+tripadvisor
+trivago
+united
+united airlines
+virgin atlantic
+vrbo
+webjet
+wotif
+zicasso

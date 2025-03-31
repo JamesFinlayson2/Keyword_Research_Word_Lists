@@ -1,0 +1,153 @@
+acropolis
+alhambra
+amazon rainforest
+angkor wat
+arc de triomphe
+atomium
+ayers rock
+bali
+big ben
+blue lagoon
+bondi beach
+bora bora
+brandenburg gate
+buckingham palace
+burj khalifa
+canal grande
+canals of amsterdam
+cape of good hope
+cathedral of santa maria del fiore
+champs elysees
+chichen itza
+christ the redeemer
+colosseum
+copacabana
+crown jewels
+disney world
+disneyland
+dome of the rock
+duomo di milano
+easter island
+eiffel tower
+empire state building
+everglades
+forbidden city
+french quarter
+french riviera
+galapagos islands
+golden gate bridge
+grand bazaar
+grand canyon
+great barrier reef
+great pyramid of giza
+great sphinx
+great wall of china
+greenwich
+guggenheim museum
+hagia sophia
+halong bay
+hollywood
+hollywood sign
+hong kong disneyland
+iguazu falls
+independence hall
+kremlin
+la rambla
+la sagrada familia
+lake como
+lake district
+lake louise
+lake tahoe
+las vegas strip
+leaning tower of pisa
+liberty bell
+louvre
+louvre museum
+machu picchu
+madison square garden
+manhattan
+matterhorn
+mayan ruins
+metropolitan museum of art
+mont saint michel
+mount everest
+mount fuji
+mount kilimanjaro
+mount rushmore
+museum of modern art
+napa valley
+national mall
+natural history museum
+neuschwanstein castle
+niagara falls
+notre dame
+notre dame cathedral
+old faithful
+old town square
+opera house
+oxford street
+palace of versailles
+palm springs
+pantheon
+parthenon
+petra
+pike place market
+plitvice lakes
+pompeii
+pont du gard
+ponte vecchio
+prague castle
+pyramids of giza
+red square
+reichstag
+rio de janeiro
+rock of gibraltar
+rockefeller center
+roman baths
+roman forum
+royal palace
+sacre coeur
+sagrada familia
+saint basils cathedral
+saint marks basilica
+saint patricks cathedral
+saint peters basilica
+san francisco cable car
+santa monica pier
+serengeti
+seville cathedral
+sistine chapel
+smithsonian
+space needle
+spanish steps
+statue of liberty
+stonehenge
+sydney harbour bridge
+sydney opera house
+taj mahal
+temple of artemis
+terracotta army
+times square
+tokyo disneyland
+tokyo disney sea
+tower bridge
+tower of london
+trafalgar square
+trevi fountain
+uluru
+universal studios
+vatican
+vatican city
+vatican museums
+venice beach
+victoria falls
+victoria peak
+wailing wall
+walt disney world
+washington monument
+westminster abbey
+white house
+windsor castle
+yellowstone
+yosemite
+zion national park

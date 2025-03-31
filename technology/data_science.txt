@@ -1,0 +1,197 @@
+a b testing
+algorithm
+analytics
+anomaly detection
+apache hadoop
+apache spark
+api
+artificial intelligence
+association rule
+autocorrelation
+automated machine learning
+automl
+aws
+azure
+bagging
+bar chart
+bayesian
+bayesian inference
+bayesian statistics
+bias
+big data
+bioinformatics
+boosting
+business intelligence
+categorical data
+causal inference
+chi square test
+classification
+cleaning
+cloud computing
+cluster analysis
+clustering
+coefficient
+cohort analysis
+computational statistics
+confidence interval
+confusion matrix
+correlation
+covariance
+cross validation
+dashboard
+data
+data analysis
+data analytics
+data architecture
+data cleaning
+data collection
+data engineering
+data governance
+data integration
+data lake
+data management
+data manipulation
+data mart
+data mining
+data model
+data modeling
+data pipeline
+data preparation
+data preprocessing
+data privacy
+data processing
+data quality
+data science
+data scientist
+data security
+data storage
+data structure
+data transformation
+data visualization
+data warehouse
+database
+dataframe
+dataset
+decision tree
+deep learning
+descriptive analytics
+descriptive statistics
+dimension reduction
+dimensionality reduction
+distributed computing
+distribution
+econometrics
+elasticsearch
+ensemble learning
+etl
+excel
+experiment
+exploratory data analysis
+extract transform load
+feature
+feature engineering
+feature extraction
+feature selection
+forecasting
+gis
+google analytics
+google bigquery
+google cloud
+gradient boosting
+graph analytics
+graph database
+hadoop
+heatmap
+histogram
+hypothesis
+hypothesis testing
+imputation
+inference
+information retrieval
+jupyter
+jupyter notebook
+k means
+kaggle
+keras
+knn
+k nearest neighbors
+linear algebra
+linear regression
+logistic regression
+machine learning
+mapreduce
+matplotlib
+mean
+median
+metadata
+metric
+microsoft power bi
+mode
+model
+mongodb
+multivariate analysis
+natural language processing
+neural network
+nlp
+nosql
+numpy
+outlier
+overfitting
+pandas
+parameter
+pattern recognition
+pca
+pearson correlation
+plotly
+postgresql
+power bi
+predictive analytics
+predictive modeling
+prescriptive analytics
+principal component analysis
+probability
+programming
+python
+pytorch
+r
+random forest
+recommendation system
+regression
+reinforcement learning
+relational database
+repository
+rstudio
+sampling
+sas
+scikit learn
+scipy
+seaborn
+sentiment analysis
+sequence analysis
+sklearn
+spark
+spss
+sql
+standard deviation
+statistical analysis
+statistical inference
+statistical learning
+statistical model
+statistical significance
+statistics
+supervised learning
+support vector machine
+svm
+tableau
+tensorflow
+text analytics
+text mining
+time series
+time series analysis
+underfitting
+unsupervised learning
+validation
+variance
+vector
+visualization
+xgboost 

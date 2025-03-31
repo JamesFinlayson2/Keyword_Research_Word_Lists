@@ -1,0 +1,48 @@
+airboat
+barge
+bass boat
+battleship
+canoe
+cargo ship
+catamaran
+container ship
+corvette
+cruise ship
+cruiser
+cutter
+destroyer
+dhow
+dinghy
+ferry
+fishing boat
+frigate
+galleon
+gondola
+houseboat
+hydrofoil
+jet ski
+junk
+kayak
+ketch
+lifeboat
+longboat
+motorboat
+narrowboat
+outrigger
+paddleboat
+pontoon
+powerboat
+raft
+rowboat
+sailboat
+schooner
+skiff
+speedboat
+submarine
+superyacht
+tanker
+trawler
+trimaran
+tugboat
+yacht
+yawl 

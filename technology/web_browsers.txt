@@ -1,0 +1,42 @@
+arc
+avant browser
+avast secure browser
+basilisk
+beaker
+brave
+chrome
+chromium
+coast
+dolphin
+edge
+epic
+firefox
+ghost browser
+internet explorer
+konqueror
+lynx
+maxthon
+midori
+min
+mosaic
+netscape
+opera
+opera gx
+opera mini
+opera neon
+otter
+pale moon
+polypane
+puffin
+qutebrowser
+safari
+samsung internet
+seamonkey
+silk
+sleipnir
+slimjet
+tor browser
+uc browser
+vivaldi
+waterfox
+yandex browser 
