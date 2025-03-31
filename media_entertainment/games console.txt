@@ -1,0 +1,29 @@
+3ds
+atari
+dreamcast
+famicon
+gameboy
+gamecube
+gamegear
+master system
+mega drive
+n-gage
+n64
+nes
+nintendo
+playstation
+ps2
+ps3
+ps4
+ps5
+psp
+sega
+sega saturn
+snes
+steam deck
+vita
+wii
+wiiu
+xbox
+xbox360
+xboxone

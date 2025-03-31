@@ -1,0 +1,6 @@
+classic
+contemporary
+minimalist
+modern
+retro
+traditional

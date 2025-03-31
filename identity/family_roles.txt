@@ -1,0 +1,59 @@
+adopted child
+adoptive father
+adoptive mother
+adoptive parent
+aunt
+brother
+brother in law
+child
+cousin
+daughter
+daughter in law
+father
+father in law
+foster child
+foster father
+foster mother
+foster parent
+godchild
+goddaughter
+godfather
+godmother
+godparent
+godson
+grandchild
+granddaughter
+grandfather
+grandmother
+grandparent
+grandson
+great aunt
+great grandfather
+great grandmother
+great grandparent
+great uncle
+half brother
+half sister
+husband
+in law
+mother
+mother in law
+nephew
+niece
+parent
+sibling
+sister
+sister in law
+son
+son in law
+spouse
+stepbrother
+stepchild
+stepdaughter
+stepfather
+stepmother
+stepparent
+stepsister
+stepson
+uncle
+wife 

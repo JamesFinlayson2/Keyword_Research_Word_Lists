@@ -1,0 +1,25 @@
+backgammon
+battleship
+carcassonne
+checkers
+chess
+clue
+connect four
+dominion
+go
+jenga
+life
+monopoly
+operation
+othello
+pandemic
+pictionary
+risk
+scrabble
+settlers of catan
+sorry
+stratego
+taboo
+ticket to ride
+trivial pursuit
+uno 

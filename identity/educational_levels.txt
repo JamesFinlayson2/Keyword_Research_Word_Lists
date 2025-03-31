@@ -1,0 +1,52 @@
+a level
+associate degree
+associate professor
+associate's degree
+bachelor degree
+bachelor of arts
+bachelor of science
+bachelor's degree
+certificate
+college degree
+diploma
+doctorate
+early years
+elementary
+foundation degree
+gcse
+graduate
+graduate certificate
+graduate degree
+graduate diploma
+high school
+higher education
+higher national certificate
+higher national diploma
+hnc
+hnd
+junior school
+master degree
+master of arts
+master of business administration
+master of science
+master's degree
+mba
+middle school
+national diploma
+nursery
+phd
+post doc
+post doctorate
+post graduate
+postdoc
+postdoctoral
+postdoctorate
+postgraduate
+postgraduate certificate
+postgraduate degree
+postgraduate diploma
+primary school
+professor
+secondary school
+undergraduate
+university degree 

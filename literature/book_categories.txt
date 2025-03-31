@@ -1,0 +1,56 @@
+action and adventure
+anthology
+art
+autobiography
+biography
+business
+childrens
+classic
+comic book
+cookbook
+crime
+drama
+dystopian
+encyclopedia
+epic
+erotic
+fairy tale
+fantasy
+fiction
+graphic novel
+guide
+historical fiction
+history
+horror
+humor
+inspirational
+literary fiction
+manga
+memoir
+mystery
+mythology
+non fiction
+novella
+paranormal
+philosophy
+picture book
+poetry
+political
+reference
+religion
+romance
+satire
+science
+science fiction
+self help
+short story
+speculative fiction
+spirituality
+sports
+suspense
+textbook
+thriller
+travel
+true crime
+western
+young adult 

@@ -1,0 +1,24 @@
+8mm
+betamax
+blu-ray
+cartivision
+casette
+cd
+datasette
+dvd
+hd-dvd
+mini disc
+mp3
+sacd
+super 8
+u-matic
+vhs
+vhs-3d
+vhs-4k
+vhs-c
+vhs-d
+vhs-ep
+vhs-hq
+vhs-p
+vhs-s
+vinyl

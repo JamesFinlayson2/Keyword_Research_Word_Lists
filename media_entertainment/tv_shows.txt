@@ -1,0 +1,54 @@
+24
+american idol
+arrested development
+atlanta
+band of brothers
+battlestar galactica
+better call saul
+big bang theory
+black mirror
+breaking bad
+bridgerton
+cheers
+community
+curb your enthusiasm
+deadwood
+dexter
+doctor who
+downton abbey
+fargo
+fleabag
+friends
+game of thrones
+grey's anatomy
+homeland
+house of cards
+i love lucy
+lost
+mad men
+modern family
+monty python
+narcos
+office
+ozark
+parks and recreation
+peaky blinders
+seinfeld
+sherlock
+simpsons
+six feet under
+sopranos
+squid game
+stranger things
+succession
+supernatural
+ted lasso
+the crown
+the mandalorian
+the office
+the walking dead
+the wire
+the x files
+true detective
+twin peaks
+westworld 

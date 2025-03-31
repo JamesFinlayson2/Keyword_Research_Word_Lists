@@ -1,0 +1,163 @@
+action
+action adventure
+action comedy
+action drama
+action fantasy
+action thriller
+adventure
+animation
+anime
+anthology
+art film
+art house
+avant garde
+b movie
+biographical
+biography
+black comedy
+blockbuster
+bollywood
+buddy film
+caper
+cartoon
+character study
+chick flick
+childrens
+christmas
+classic
+comedy
+comedy drama
+comedy horror
+comedy of errors
+comedy of manners
+coming of age
+concert film
+costume drama
+courtroom drama
+creature feature
+crime
+crime drama
+crime thriller
+cult
+cult classic
+cyberpunk
+dark comedy
+detective
+disaster
+docudrama
+documentary
+domestic drama
+drama
+dramedy
+dystopian
+educational
+ensemble
+epic
+erotic
+erotic thriller
+espionage
+experimental
+exploitation
+fairy tale
+family
+family drama
+fantasy
+fantasy adventure
+feature film
+film noir
+found footage
+gangster
+ghost story
+gothic
+heist
+historical
+historical drama
+historical fiction
+holiday
+horror
+horror comedy
+independent
+indie
+indie film
+kung fu
+legal drama
+lgbt
+martial arts
+melodrama
+mockumentary
+monster
+movie musical
+mumblecore
+murder mystery
+music
+musical
+mystery
+nature
+neo noir
+new wave
+noir
+parody
+period drama
+period piece
+political
+political drama
+political satire
+political thriller
+post apocalyptic
+procedural
+propaganda
+psychological
+psychological drama
+psychological horror
+psychological thriller
+reality
+road movie
+road trip
+romance
+romantic comedy
+romantic drama
+romantic fantasy
+romantic thriller
+satire
+sci fi
+science fiction
+screwball comedy
+short film
+silent
+silent film
+slasher
+slapstick
+slapstick comedy
+slice of life
+social drama
+space opera
+spaghetti western
+sports
+spy
+spy thriller
+steampunk
+stoner comedy
+superhero
+supernatural
+supernatural horror
+supernatural thriller
+surrealism
+suspense
+teen
+teen comedy
+teen drama
+thriller
+time travel
+tragedy
+tragicomedy
+true crime
+urban
+vampire
+war
+war drama
+war film
+werewolf
+western
+whodunit
+wuxia
+zombie 

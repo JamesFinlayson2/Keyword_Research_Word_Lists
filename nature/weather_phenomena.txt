@@ -1,0 +1,27 @@
+aurora
+blizzard
+cyclone
+drought
+dust storm
+earthquake
+flood
+fog
+frost
+hail
+heat wave
+hurricane
+lightning
+monsoon
+rainbow
+rain
+sandstorm
+sleet
+snow
+storm
+thunder
+thunderstorm
+tornado
+tsunami
+typhoon
+volcano
+wildfire 

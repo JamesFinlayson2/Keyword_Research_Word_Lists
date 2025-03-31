@@ -1,0 +1,13 @@
+best
+worst
+fastest
+slowest
+heaviest
+lightest
+cheapest
+cheap
+expensive
+luxury
+good
+better
+favourite

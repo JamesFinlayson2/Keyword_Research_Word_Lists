@@ -1,0 +1,13 @@
+plastic
+metal
+paper
+wood
+wooden
+leather
+glass
+rubber
+concrete
+stone
+ceramic
+synthetic
+composite

@@ -1,0 +1,35 @@
+religion
+religious
+agnosticism
+animism
+astrology
+atheism
+baha i faith
+buddhism
+cao dai
+christianity
+christian
+confucianism
+daoism
+druidism
+eckankar
+gnosticism
+hinduism
+islam
+jainism
+judaism
+mormon
+muslim
+paganism
+rastafarianism
+scientology
+shamanism
+shinto
+sikhism
+spirituality
+taoism
+tenrikyo
+thelema
+unitarian universalism
+wicca
+zoroastrianism

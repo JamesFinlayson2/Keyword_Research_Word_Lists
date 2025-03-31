@@ -1,0 +1,18 @@
+music
+blues
+classical music
+country music
+gospel music
+hip hop
+jazz
+r&b
+reggae
+rock music
+pop music
+punk music
+metal music
+heavy metal
+choir
+opera
+bangra
+house music

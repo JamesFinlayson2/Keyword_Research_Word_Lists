@@ -1,0 +1,11 @@
+small
+medium
+large
+xxl
+xl
+extra-large
+tiny
+huge
+massive
+big
+petite

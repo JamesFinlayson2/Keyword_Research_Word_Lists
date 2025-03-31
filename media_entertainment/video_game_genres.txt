@@ -1,0 +1,35 @@
+action
+adventure
+battle royale
+beat em up
+card game
+city builder
+fighting
+first person shooter
+flight simulator
+grand strategy
+hack and slash
+horror
+life simulation
+massively multiplayer online
+metroidvania
+moba
+open world
+platformer
+puzzle
+racing
+real time strategy
+rhythm
+role playing game
+roguelike
+sandbox
+shooter
+simulation
+sports
+stealth
+strategy
+survival
+tactical rpg
+tower defense
+turn based strategy
+visual novel 

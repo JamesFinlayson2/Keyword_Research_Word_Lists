@@ -1,0 +1,285 @@
+acid house
+acid jazz
+acid rock
+acoustic
+adult contemporary
+afrobeat
+alternative
+alternative country
+alternative dance
+alternative metal
+alternative rock
+ambient
+americana
+art rock
+avant garde
+bachata
+ballad
+baroque
+baroque pop
+bass music
+bebop
+big band
+black metal
+bluegrass
+blues
+blues rock
+bolero
+boogie woogie
+bossa nova
+breakbeat
+breakcore
+britpop
+calypso
+celtic
+chamber music
+chanson
+chillout
+chillwave
+christian rock
+classical
+classical crossover
+club music
+comedy
+contemporary classical
+contemporary folk
+contemporary jazz
+contemporary r&b
+country
+country blues
+country folk
+country pop
+country rock
+crossover
+crossover thrash
+crunk
+cumbia
+dance
+dance pop
+dancehall
+dark ambient
+darkwave
+death metal
+deathcore
+deep house
+delta blues
+detroit techno
+digital hardcore
+disco
+doo wop
+doom metal
+downtempo
+drill
+drone
+drum and bass
+dub
+dubstep
+easy listening
+ebm
+edm
+electric blues
+electro
+electro house
+electro swing
+electroclash
+electronic
+electronic dance music
+electronic rock
+electronica
+emo
+emo pop
+emo rap
+eurodance
+europop
+experimental
+experimental rock
+folk
+folk metal
+folk pop
+folk punk
+folk rock
+folktronica
+freak folk
+free jazz
+funk
+funk metal
+funk rock
+fusion
+future bass
+g funk
+gabber
+garage
+garage rock
+glam
+glam metal
+glam rock
+glitch
+gospel
+gothic
+gothic metal
+gothic rock
+grindcore
+grunge
+gypsy jazz
+happy hardcore
+hard bop
+hard house
+hard rock
+hardcore
+hardcore punk
+hardcore techno
+hardstyle
+heavy metal
+hi nrg
+highlife
+hip hop
+honky tonk
+house
+idm
+indie
+indie folk
+indie pop
+indie rock
+industrial
+industrial metal
+industrial rock
+instrumental
+intelligent dance music
+italo disco
+j pop
+j rock
+jazz
+jazz blues
+jazz fusion
+jazz rap
+jungle
+k pop
+krautrock
+latin
+latin jazz
+latin pop
+latin rock
+lo fi
+lofi
+lounge
+lovers rock
+madchester
+mainstream rock
+mambo
+mariachi
+math rock
+mathcore
+medieval
+melodic death metal
+melodic hardcore
+melodic metal
+melodic rock
+merengue
+metal
+metalcore
+minimal
+minimal techno
+modern classical
+modern rock
+motown
+musical
+neo classical
+neo soul
+neoclassical
+neofolk
+new age
+new jack swing
+new wave
+no wave
+noise
+noise pop
+noise rock
+nu disco
+nu metal
+old school hip hop
+opera
+orchestral
+outlaw country
+p funk
+pop
+pop metal
+pop punk
+pop rap
+pop rock
+post hardcore
+post metal
+post punk
+post rock
+power metal
+power pop
+progressive
+progressive house
+progressive metal
+progressive rock
+psychedelic
+psychedelic folk
+psychedelic pop
+psychedelic rock
+psychobilly
+punk
+punk rock
+r&b
+ragga
+ragtime
+rap
+rap metal
+rap rock
+reggae
+reggae fusion
+reggaeton
+rhythm and blues
+rock
+rock and roll
+rockabilly
+roots reggae
+roots rock
+rumba
+salsa
+samba
+screamo
+shoegaze
+ska
+ska punk
+skiffle
+slow jam
+sludge metal
+smooth jazz
+soft rock
+soul
+soul jazz
+southern rock
+space rock
+speed metal
+stoner rock
+surf rock
+swing
+symphonic metal
+symphonic rock
+synth pop
+synthwave
+tango
+techno
+teen pop
+thrash metal
+trance
+trap
+trip hop
+tropical house
+turntablism
+uk garage
+underground
+urban
+vaporwave
+vocal
+vocal jazz
+vocal trance
+west coast hip hop
+western swing
+witch house
+world
+world music 

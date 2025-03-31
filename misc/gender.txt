@@ -1,0 +1,14 @@
+male
+female
+males
+females
+men
+mens
+women
+womens
+guy
+girl
+boy
+guys
+girls
+boys

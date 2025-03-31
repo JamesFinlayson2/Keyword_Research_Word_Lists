@@ -1,0 +1,61 @@
+admiral
+baron
+baroness
+bishop
+brigadier
+captain
+colonel
+commander
+count
+countess
+dame
+doctor
+dr
+duke
+duchess
+father
+general
+governor
+her excellency
+her highness
+her ladyship
+her majesty
+his excellency
+his highness
+his lordship
+his majesty
+honorable
+hon
+judge
+lady
+lord
+madam
+madame
+major
+miss
+mr
+mrs
+ms
+mx
+officer
+president
+prince
+princess
+prof
+professor
+rabbi
+reverend
+rev
+right honorable
+right honourable
+senator
+sir
+sister
+your excellency
+your grace
+your highness
+your honor
+your honour
+your ladyship
+your lordship
+your majesty 

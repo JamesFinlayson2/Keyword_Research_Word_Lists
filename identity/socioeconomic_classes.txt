@@ -1,0 +1,19 @@
+affluent
+blue collar
+bourgeoisie
+lower class
+lower middle class
+middle class
+professional class
+proletariat
+skilled working class
+social class a
+social class b
+social class c1
+social class c2
+social class d
+social class e
+upper class
+upper middle class
+white collar
+working class 
