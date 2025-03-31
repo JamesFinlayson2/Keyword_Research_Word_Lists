@@ -1,0 +1,35 @@
+binder
+calculator
+calendar
+clipboard
+correction fluid
+desk
+desk lamp
+envelope
+eraser
+file cabinet
+file folder
+glue
+highlighter
+hole punch
+index card
+ink
+label
+laptop
+marker
+notebook
+paper
+paper clip
+pen
+pencil
+pencil sharpener
+post it
+printer
+ruler
+scissors
+stapler
+staples
+sticky note
+tape
+toner
+whiteboard 

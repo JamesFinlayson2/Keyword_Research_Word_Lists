@@ -1,0 +1,203 @@
+art gallery
+automotive showroom
+bakers
+bakery
+barbershop
+barberstore
+beauty salon
+bicycle shop
+bicycle store
+big-box shop
+big-box store
+body piercing shop
+book shop
+book store
+boutique
+brand flagship
+brand shop
+brand showroom
+brand store
+bread shop
+bread store
+butchers
+cafe
+cake shop
+cake store
+candy shop
+candy store
+car showroom
+car stereo shop
+car stereo store
+charity shop
+charity store
+clothing shop
+clothing store
+collectables
+computer shop
+computer store
+concept shop
+concept store
+concession stand
+confectionary store
+confectionery
+convenience shop
+convenience store
+co-operative
+cosmetics shop
+cosmetics store
+craft shop
+craft store
+cupcake shop
+cupcake store
+delicatessen
+department shop
+department store
+discount shop
+discount store
+diy shop
+diy store
+dollar shop
+dollar store
+donut shop
+donut store
+dress shop
+dress store
+dry cleaner
+duty-free shop
+duty-free store
+electronics shop
+electronics store
+embroidery shop
+embroidery store
+fabric / sewing supplies
+farmers market
+fashion boutique
+fast food restaurant
+fishmonger
+franchise / chain shop
+franchise / chain store
+fruit market
+furniture shop
+furniture store
+game shop
+game store
+garden center
+gas station
+general shop
+general store
+gift shop
+gift store
+greengrocer
+greetings card shop
+greetings card store
+grocery store
+hairdressers
+hardware store
+health food shop
+health food store
+hifi shop
+hifi store
+hobby shop
+hobby store
+home decor
+home improvement shop
+home improvement store
+homeware shop
+homeware store
+hypermarket
+imported goods
+jeweler
+jeweller
+jewellery shop
+jewellery store
+junk shop
+junk store
+kiosk
+kitchen shop
+kitchen store
+lingerie shop
+lingerie store
+liquidator
+luxury brand shop
+luxury brand store
+mall
+mattress shop
+mattress store
+mechanic / garage
+megashop
+megastore
+mobile phone repair shop
+mobile phone repair store
+mobile phone shop
+mobile phone store
+music shop
+music store
+newspaper stand
+niche shop
+niche store
+off license
+outdoor shop / outfitter
+outdoor store / outfitter
+patisserie
+pawn shop
+pet shop
+pet store
+pharmacy
+pharmacy / drug shop
+pharmacy / drug store
+popular culture (e.g. anime shop)
+popular culture (e.g. anime store)
+pop-up shop
+pop-up store
+record shop
+record store
+reuse cafe
+sandwich shop
+sandwich store
+second-hand / thrift shop
+second-hand / thrift store
+service center
+shoe repair shop
+shoe repair store
+shoe shop
+shoe store
+shopping centre
+software / video games
+souvenir shop
+souvenir store
+specialty shop
+specialty store
+sports shop
+sports store
+stationery shop
+stationery store
+street vendors
+supermarket
+surplus shop
+surplus store
+sweet shop
+sweet store
+tailor
+takeout restaurant
+tattoo parlour
+tattoo shop
+tattoo store
+ticket vendors
+toy shop
+toy store
+trading shop
+trading store
+travel agent
+trophy shop
+trophy store
+truck stop
+tyre shop
+tyre store
+vape shop
+vape store
+vaping shop
+vaping store
+variety shop
+variety store
+vegetable market
+wholesaler

@@ -1,0 +1,63 @@
+accountant
+administrative assistant
+analyst
+architect
+attorney
+auditor
+bookkeeper
+business analyst
+ceo
+cfo
+chief executive officer
+chief financial officer
+chief marketing officer
+chief operating officer
+chief technology officer
+cmo
+consultant
+content writer
+controller
+coo
+copywriter
+cto
+customer service representative
+data analyst
+data scientist
+designer
+developer
+director
+editor
+engineer
+executive assistant
+financial advisor
+graphic designer
+hr manager
+human resources manager
+it manager
+lawyer
+manager
+marketing coordinator
+marketing manager
+office manager
+operations manager
+paralegal
+president
+product manager
+programmer
+project manager
+receptionist
+recruiter
+researcher
+sales associate
+sales manager
+sales representative
+scientist
+secretary
+software developer
+software engineer
+supervisor
+teacher
+technician
+vice president
+web developer
+writer 

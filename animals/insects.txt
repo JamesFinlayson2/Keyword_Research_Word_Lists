@@ -1,0 +1,35 @@
+ant
+aphid
+bee
+beetle
+butterfly
+caterpillar
+centipede
+cicada
+cockroach
+cricket
+dragonfly
+earwig
+firefly
+flea
+fly
+grasshopper
+honeybee
+hornet
+ladybug
+locust
+mantis
+mayfly
+millipede
+mosquito
+moth
+praying mantis
+scarab
+scorpion
+silkworm
+silverfish
+spider
+stick insect
+termite
+tick
+wasp 

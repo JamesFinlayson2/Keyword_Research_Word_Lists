@@ -1,0 +1,264 @@
+accounting
+aerospace engineering
+african american studies
+african studies
+agriculture
+american studies
+anatomy
+ancient history
+anthropology
+applied linguistics
+applied mathematics
+applied physics
+archaeology
+architecture
+art
+art history
+artificial intelligence
+asian studies
+astronomy
+astrophysics
+athletic training
+atmospheric science
+aviation
+bacteriology
+behavioral science
+biblical studies
+biochemistry
+bioengineering
+biology
+biomedical engineering
+biophysics
+biotechnology
+botany
+business
+business administration
+business analytics
+business ethics
+business law
+business management
+calculus
+chemical engineering
+chemistry
+child development
+chinese
+civil engineering
+classics
+clinical psychology
+cognitive science
+communication
+communication studies
+comparative literature
+computer engineering
+computer science
+conservation biology
+construction management
+creative writing
+criminal justice
+criminology
+cultural anthropology
+cultural studies
+cybersecurity
+dance
+data analytics
+data science
+dental hygiene
+dentistry
+design
+developmental psychology
+dietetics
+digital marketing
+digital media
+early childhood education
+earth science
+ecology
+economics
+education
+educational leadership
+educational psychology
+electrical engineering
+elementary education
+engineering
+english
+english literature
+entrepreneurship
+environmental engineering
+environmental science
+environmental studies
+epidemiology
+ethics
+ethnic studies
+european history
+european studies
+evolutionary biology
+exercise physiology
+exercise science
+family studies
+fashion design
+film studies
+finance
+fine arts
+food science
+forensic science
+forestry
+french
+gender studies
+genetics
+geography
+geology
+geophysics
+german
+gerontology
+graphic design
+health education
+health informatics
+health science
+healthcare administration
+healthcare management
+history
+horticulture
+hospitality management
+human development
+human resources
+human resources management
+humanities
+immunology
+industrial design
+industrial engineering
+information science
+information systems
+information technology
+interior design
+international business
+international relations
+italian
+japanese
+journalism
+kinesiology
+landscape architecture
+language
+latin
+latin american studies
+law
+legal studies
+liberal arts
+library science
+linguistics
+literature
+management
+marine biology
+marketing
+mass communication
+materials science
+mathematics
+mechanical engineering
+media studies
+medical technology
+medicine
+medieval studies
+meteorology
+microbiology
+middle eastern studies
+military science
+molecular biology
+music
+music education
+music theory
+natural science
+neuroscience
+nuclear engineering
+nursing
+nutrition
+occupational therapy
+oceanography
+operations management
+operations research
+optometry
+organic chemistry
+organizational behavior
+organizational leadership
+paleontology
+paralegal studies
+pharmacy
+philosophy
+photography
+physical education
+physical therapy
+physician assistant
+physics
+physiology
+planetary science
+plant biology
+plant science
+political science
+portuguese
+pre law
+pre med
+pre medicine
+pre veterinary
+primary education
+project management
+psychology
+public administration
+public health
+public policy
+public relations
+public speaking
+radiologic technology
+real estate
+recreation management
+rehabilitation counseling
+religious studies
+respiratory therapy
+rhetoric
+risk management
+robotics
+russian
+science
+secondary education
+social psychology
+social science
+social studies
+social work
+sociology
+software engineering
+soil science
+spanish
+special education
+speech pathology
+speech therapy
+sports management
+sports medicine
+statistics
+studio art
+supply chain management
+sustainability
+sustainable development
+systems engineering
+taxation
+teacher education
+teaching
+technical writing
+technology
+telecommunications
+theater
+theatre
+theology
+theoretical physics
+tourism
+toxicology
+translation
+transportation
+urban planning
+urban studies
+veterinary medicine
+veterinary science
+veterinary technology
+visual arts
+web design
+web development
+wildlife biology
+womens studies
+world history
+writing
+zoology 

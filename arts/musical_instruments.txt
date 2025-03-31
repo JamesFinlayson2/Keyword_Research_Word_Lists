@@ -1,0 +1,99 @@
+accordion
+bagpipes
+balalaika
+banjo
+bass
+bass drum
+bass guitar
+bassoon
+bell
+bongo
+bongo drums
+bouzouki
+bugle
+calliope
+celesta
+cello
+clap box
+clarinet
+clavichord
+comet
+conga drums
+cornet
+cymbal
+damru
+dholak
+didgeridoo
+dizi
+djembe
+double bass
+drum
+drum pad
+drums
+dulcimer
+ektara
+electric guitar
+electronic drums
+erhu
+euphonium
+fiddle
+flute
+french horn
+glockenspiel
+gong
+gramophone
+gu-zheng
+guitar
+harmonica
+harmonium
+harp
+harpsichord
+horn
+keyboard
+kora
+lute
+lyre
+mandolin
+maracas
+marimba
+mouth organ
+mridangam
+oboe
+ocarina
+octobass
+organ
+oud
+pan pipes
+piano
+piccolo
+pipe organ
+pungi
+recorder
+sarangi
+sarod
+saxophone
+shamisen
+sitar
+snare
+snare drum
+spinet
+steel drum
+string
+synthesizer
+tabla
+tambourine
+theremin
+timpani
+triangle
+trombone
+trumpet
+tuba
+tubular chimes
+ukulele
+veena
+vibes
+viola
+violin
+xylophone
+yueqin
+zither 

@@ -1,0 +1,71 @@
+affenpinscher
+afghan hound
+airedale terrier
+akita
+alaskan malamute
+american bulldog
+american cocker spaniel
+american eskimo dog
+american pit bull terrier
+american staffordshire terrier
+australian cattle dog
+australian shepherd
+basenji
+basset hound
+beagle
+bernese mountain dog
+bichon frise
+bloodhound
+border collie
+boston terrier
+boxer
+bulldog
+bullmastiff
+cairn terrier
+cavalier king charles spaniel
+chihuahua
+chow chow
+cocker spaniel
+collie
+corgi
+dachshund
+dalmatian
+doberman
+english springer spaniel
+french bulldog
+german shepherd
+golden retriever
+great dane
+greyhound
+havanese
+husky
+irish setter
+jack russell terrier
+labrador retriever
+lhasa apso
+maltese
+mastiff
+miniature pinscher
+miniature schnauzer
+newfoundland
+papillon
+pekingese
+pembroke welsh corgi
+pomeranian
+poodle
+pug
+rottweiler
+saint bernard
+samoyed
+schnauzer
+shar pei
+shetland sheepdog
+shiba inu
+shih tzu
+siberian husky
+staffordshire bull terrier
+vizsla
+weimaraner
+west highland white terrier
+whippet
+yorkshire terrier

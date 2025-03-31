@@ -1,0 +1,97 @@
+academy
+adult education center
+agricultural college
+agricultural university
+alternative school
+art college
+art school
+arts college
+boarding school
+business college
+business school
+career college
+charter school
+college
+college of education
+college of further education
+college preparatory school
+community college
+comprehensive school
+conservatoire
+conservatory
+continuing education center
+correspondence school
+day school
+design school
+distance learning institution
+drama school
+elementary school
+engineering college
+engineering school
+evening school
+film school
+further education college
+grammar school
+high school
+higher education institution
+independent school
+infant school
+international school
+junior college
+junior high school
+junior school
+kindergarten
+language school
+law school
+liberal arts college
+magnet school
+medical college
+medical school
+middle school
+military academy
+military school
+montessori school
+music college
+music conservatory
+music school
+night school
+nursery
+nursery school
+online school
+performing arts school
+polytechnic
+pre school
+preparatory school
+preschool
+primary school
+private college
+private school
+private university
+public school
+religious school
+research institute
+research university
+residential college
+school
+secondary school
+seminary
+sixth form
+sixth form college
+special school
+specialized school
+state school
+summer school
+sunday school
+technical college
+technical institute
+technical school
+technical university
+technological university
+tertiary institution
+trade school
+university
+university college
+virtual school
+vocational college
+vocational school
+waldorf school 

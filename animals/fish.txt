@@ -1,0 +1,88 @@
+amberjack
+anchovies
+anchovy
+angler
+anglerfish
+ayu
+barbel
+barracuda
+basa
+bass
+betta
+black cod
+blowfish
+bluefish
+bocaccio
+bombay duck
+bonito
+bream
+brill
+burbot
+butterfish
+carp
+catfish
+cobbler
+cod
+dogfish
+dorade
+eel
+flounder
+fugu
+goldfish
+grouper
+haddock
+hake
+halibut
+herring
+ilish
+john dory
+lamprey
+lingcod
+mackerel
+mahi mahi
+marlin
+monkfish
+mullet
+orange roughy
+pacific rudderfish
+pacific saury
+parrotfish
+patagonian toothfish
+perch
+pike
+pilchard
+pollock
+pomfret
+pompano
+pufferfish
+rockfish
+sablefish
+salmon
+sanddab
+sardine
+scallop
+sea bass
+sea bream
+shad
+shark
+skate
+smelt
+snakehead
+snapper
+sole
+sprat
+stockfish
+stromateidae
+sturgeon
+surimi
+swordfish
+tilapia
+tilefish
+trout
+tuna
+turbot
+wahoo
+whitefish
+whiting
+yellowtail
+zander

@@ -1,0 +1,120 @@
+american university
+amherst college
+arizona state university
+auburn university
+baylor university
+boston college
+boston university
+brandeis university
+brown university
+california institute of technology
+carnegie mellon university
+case western reserve university
+clemson university
+colgate university
+college of william & mary
+colorado state university
+columbia university
+cornell university
+dartmouth college
+davidson college
+drexel university
+duke university
+emory university
+florida state university
+fordham university
+georgetown university
+georgia institute of technology
+georgia state university
+harvard university
+howard university
+indiana university
+iowa state university
+johns hopkins university
+lehigh university
+louisiana state university
+loyola university chicago
+massachusetts institute of technology
+michigan state university
+middlebury college
+new york university
+north carolina state university
+northeastern university
+northwestern university
+ohio state university
+oregon state university
+pennsylvania state university
+pepperdine university
+pomona college
+princeton university
+purdue university
+rice university
+rutgers university
+santa clara university
+southern methodist university
+stanford university
+swarthmore college
+syracuse university
+temple university
+texas a&m university
+tufts university
+tulane university
+university of alabama
+university of arizona
+university of arkansas
+university of california berkeley
+university of california davis
+university of california irvine
+university of california los angeles
+university of california san diego
+university of california santa barbara
+university of chicago
+university of cincinnati
+university of colorado boulder
+university of connecticut
+university of delaware
+university of florida
+university of georgia
+university of hawaii
+university of houston
+university of illinois urbana champaign
+university of iowa
+university of kansas
+university of kentucky
+university of maryland
+university of massachusetts amherst
+university of miami
+university of michigan
+university of minnesota
+university of mississippi
+university of missouri
+university of nebraska
+university of nevada
+university of new hampshire
+university of north carolina
+university of notre dame
+university of oklahoma
+university of oregon
+university of pennsylvania
+university of pittsburgh
+university of rochester
+university of south carolina
+university of southern california
+university of tennessee
+university of texas austin
+university of utah
+university of vermont
+university of virginia
+university of washington
+university of wisconsin madison
+vanderbilt university
+vassar college
+villanova university
+virginia tech
+wake forest university
+washington state university
+washington university in st louis
+wellesley college
+wesleyan university
+williams college
+yale university 

@@ -1,0 +1,23 @@
+atv
+bus
+car
+commercial trucks
+convertible
+coupe
+crossover
+golf cart
+hatchback
+microcar
+minivan
+motorcycle
+off-road vehicles
+pickup trucks
+sedan
+snowmobile
+station wagon
+suv
+tractor
+truck
+trucks
+van
+vehicle

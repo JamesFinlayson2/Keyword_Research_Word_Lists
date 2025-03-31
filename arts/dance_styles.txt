@@ -1,0 +1,46 @@
+acro
+aerial
+afrobeat
+bachata
+ballet
+ballroom
+belly dance
+bharatanatyam
+bolero
+breakdance
+capoeira
+cha cha
+charleston
+contemporary
+cossack dance
+flamenco
+folk dance
+foxtrot
+hip hop
+hula
+irish dance
+jazz
+jive
+kathak
+kizomba
+krumping
+lambada
+latin
+lindy hop
+mambo
+merengue
+modern
+moonwalk
+paso doble
+popping
+quickstep
+rumba
+salsa
+samba
+swing
+tango
+tap dance
+twerk
+viennese waltz
+waltz
+zumba 

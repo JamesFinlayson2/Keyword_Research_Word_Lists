@@ -1,0 +1,15 @@
+sun
+sunny
+rain
+rainy
+snow
+snowy
+cloudy
+hail
+hailstone
+hailstorm
+fog
+storm
+thunder
+thunderstorm
+lightning

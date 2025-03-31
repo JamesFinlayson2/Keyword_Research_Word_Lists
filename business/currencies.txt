@@ -1,0 +1,41 @@
+argentine peso
+australian dollar
+brazilian real
+british pound
+canadian dollar
+chilean peso
+chinese yuan
+colombian peso
+czech koruna
+danish krone
+egyptian pound
+euro
+hong kong dollar
+hungarian forint
+icelandic krona
+indian rupee
+indonesian rupiah
+israeli shekel
+japanese yen
+malaysian ringgit
+mexican peso
+new zealand dollar
+nigerian naira
+norwegian krone
+pakistani rupee
+philippine peso
+polish zloty
+qatari riyal
+romanian leu
+russian ruble
+saudi riyal
+singapore dollar
+south african rand
+south korean won
+swedish krona
+swiss franc
+taiwan dollar
+thai baht
+turkish lira
+us dollar
+vietnamese dong 

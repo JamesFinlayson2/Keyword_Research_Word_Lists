@@ -1,0 +1,13 @@
+purchase
+bargain
+cheap
+deal
+value
+buy
+shop
+price
+coupon
+discount
+delivery
+order
+sale

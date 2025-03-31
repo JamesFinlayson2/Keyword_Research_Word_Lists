@@ -1,0 +1,191 @@
+aa
+aas
+aba
+abd
+acs
+ad
+ada
+adip
+adv dip
+advanced certificate
+advanced diploma
+associate
+associate degree
+associate in applied science
+associate in arts
+associate in science
+associate of applied science
+associate of arts
+associate of science
+ba
+bachelor
+bachelor degree
+bachelor of architecture
+bachelor of arts
+bachelor of business
+bachelor of business administration
+bachelor of commerce
+bachelor of computer science
+bachelor of design
+bachelor of education
+bachelor of engineering
+bachelor of fine arts
+bachelor of laws
+bachelor of medicine
+bachelor of music
+bachelor of nursing
+bachelor of science
+bachelor of science in nursing
+bachelor of social work
+bachelor of technology
+bachelors
+bachelors degree
+barch
+bba
+bcom
+bdes
+bed
+beng
+bfa
+bmus
+bsc
+bsn
+bsw
+btech
+certificate
+certificate course
+certificate degree
+certificate i
+certificate ii
+certificate iii
+certificate iv
+certification
+college degree
+continuing education
+continuing education unit
+continuing professional development
+cpd
+d phil
+dba
+dds
+dip
+dip he
+diploma
+diploma course
+diploma degree
+diploma of higher education
+distance learning
+dmd
+dnp
+doctor
+doctor of business administration
+doctor of dental medicine
+doctor of dental surgery
+doctor of education
+doctor of law
+doctor of medicine
+doctor of musical arts
+doctor of nursing practice
+doctor of optometry
+doctor of osteopathic medicine
+doctor of pharmacy
+doctor of philosophy
+doctor of physical therapy
+doctor of psychology
+doctor of science
+doctor of veterinary medicine
+doctoral
+doctoral degree
+doctorate
+doctorate degree
+dphil
+dpt
+dsc
+dvm
+edd
+executive education
+foundation degree
+graduate
+graduate certificate
+graduate degree
+graduate diploma
+hnd
+higher education
+higher national certificate
+higher national diploma
+hnc
+honors
+honors degree
+honours
+honours degree
+jd
+juris doctor
+llb
+llm
+ma
+master
+master degree
+master of architecture
+master of arts
+master of business
+master of business administration
+master of commerce
+master of computer science
+master of design
+master of divinity
+master of education
+master of engineering
+master of fine arts
+master of laws
+master of library science
+master of music
+master of philosophy
+master of public administration
+master of public health
+master of science
+master of social work
+masters
+masters degree
+mba
+mcom
+md
+mdiv
+med
+meng
+mfa
+mls
+mmus
+mph
+mphil
+ms
+msc
+msw
+non degree
+od
+online degree
+pharm d
+pharmd
+phd
+postdoc
+postdoctoral
+postdoctoral fellowship
+postdoctoral research
+postgraduate
+postgraduate certificate
+postgraduate degree
+postgraduate diploma
+professional certificate
+professional degree
+professional doctorate
+psyd
+research degree
+short course
+taught degree
+undergraduate
+undergraduate certificate
+undergraduate degree
+undergraduate diploma
+vocational certificate
+vocational degree
+vocational diploma
+vocational qualification 

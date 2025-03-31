@@ -1,0 +1,141 @@
+acid deposition
+acid mine drainage
+acid rain
+acidification
+acoustic pollution
+aerosol
+agricultural pollution
+agricultural runoff
+air pollution
+algal bloom
+ambient air pollution
+ammonia
+arsenic
+asbestos
+atmospheric pollution
+benzene
+bioaccumulation
+biomagnification
+black carbon
+cadmium
+carbon dioxide
+carbon monoxide
+carcinogen
+chemical contamination
+chemical pollution
+chemical waste
+chlorofluorocarbons
+co2
+coal ash
+contamination
+crude oil
+cultural pollution
+ddt
+debris
+deforestation
+degradation
+dioxin
+discharge
+disposal
+domestic waste
+dumping
+dust
+e waste
+effluent
+electronic waste
+emission
+endocrine disruptor
+environmental contamination
+environmental degradation
+environmental pollution
+eutrophication
+exhaust
+factory farming
+fertilizer
+fossil fuel
+fuel
+garbage
+greenhouse gas
+groundwater contamination
+groundwater pollution
+hazardous waste
+heavy metal
+herbicide
+household waste
+hydrocarbon
+indoor air pollution
+industrial pollution
+industrial waste
+insecticide
+landfill
+lead
+leachate
+light pollution
+litter
+marine debris
+marine litter
+marine pollution
+mercury
+methane
+microplastic
+mining waste
+motor vehicle emission
+municipal solid waste
+municipal waste
+nitrogen dioxide
+nitrogen oxide
+noise pollution
+non point source pollution
+nuclear pollution
+nuclear waste
+nutrient pollution
+ocean acidification
+oil
+oil pollution
+oil spill
+organic pollution
+ozone
+ozone depletion
+particulate matter
+pcb
+persistent organic pollutant
+pesticide
+petrochemical
+petroleum
+plastic
+plastic pollution
+point source pollution
+pollutant
+pollution
+polychlorinated biphenyl
+radioactive contamination
+radioactive pollution
+radioactive waste
+radon
+runoff
+sewage
+smog
+smoke
+soil contamination
+soil pollution
+solid waste
+sound pollution
+sulfur dioxide
+surface water pollution
+thermal pollution
+toxic
+toxic chemical
+toxic substance
+toxic waste
+toxin
+trash
+urban runoff
+visual pollution
+volatile organic compound
+waste
+waste disposal
+waste management
+wastewater
+water contamination
+water pollution
+water quality 
